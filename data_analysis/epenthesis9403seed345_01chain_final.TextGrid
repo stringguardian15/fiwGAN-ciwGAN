@@ -1,0 +1,3814 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 972.8000000000001 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "labels" 
+        xmin = 0 
+        xmax = 972.8000000000001 
+        intervals: size = 950 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.024 
+            text = "epenthesis9403seed345_01_ch1" 
+        intervals [2]:
+            xmin = 1.024 
+            xmax = 2.048 
+            text = "epenthesis9403seed345_01_ch2" 
+        intervals [3]:
+            xmin = 2.048 
+            xmax = 3.072 
+            text = "epenthesis9403seed345_01_ch3" 
+        intervals [4]:
+            xmin = 3.072 
+            xmax = 4.096 
+            text = "epenthesis9403seed345_01_ch4_p" 
+        intervals [5]:
+            xmin = 4.096 
+            xmax = 5.12 
+            text = "epenthesis9403seed345_01_ch5" 
+        intervals [6]:
+            xmin = 5.12 
+            xmax = 6.144 
+            text = "epenthesis9403seed345_01_ch6" 
+        intervals [7]:
+            xmin = 6.144 
+            xmax = 7.168 
+            text = "epenthesis9403seed345_01_ch7" 
+        intervals [8]:
+            xmin = 7.168 
+            xmax = 8.192 
+            text = "epenthesis9403seed345_01_ch8_p" 
+        intervals [9]:
+            xmin = 8.192 
+            xmax = 9.216000000000001 
+            text = "epenthesis9403seed345_01_ch9_p" 
+        intervals [10]:
+            xmin = 9.216000000000001 
+            xmax = 10.240000000000002 
+            text = "epenthesis9403seed345_01_ch10" 
+        intervals [11]:
+            xmin = 10.240000000000002 
+            xmax = 11.264000000000003 
+            text = "epenthesis9403seed345_01_ch11" 
+        intervals [12]:
+            xmin = 11.264000000000003 
+            xmax = 12.288000000000004 
+            text = "epenthesis9403seed345_01_ch12" 
+        intervals [13]:
+            xmin = 12.288000000000004 
+            xmax = 13.312000000000005 
+            text = "epenthesis9403seed345_01_ch13_t" 
+        intervals [14]:
+            xmin = 13.312000000000005 
+            xmax = 14.336000000000006 
+            text = "epenthesis9403seed345_01_ch14" 
+        intervals [15]:
+            xmin = 14.336000000000006 
+            xmax = 15.360000000000007 
+            text = "epenthesis9403seed345_01_ch15" 
+        intervals [16]:
+            xmin = 15.360000000000007 
+            xmax = 16.384000000000007 
+            text = "epenthesis9403seed345_01_ch16" 
+        intervals [17]:
+            xmin = 16.384000000000007 
+            xmax = 17.40800000000001 
+            text = "epenthesis9403seed345_01_ch17" 
+        intervals [18]:
+            xmin = 17.40800000000001 
+            xmax = 18.43200000000001 
+            text = "epenthesis9403seed345_01_ch18_t" 
+        intervals [19]:
+            xmin = 18.43200000000001 
+            xmax = 19.45600000000001 
+            text = "epenthesis9403seed345_01_ch19_p" 
+        intervals [20]:
+            xmin = 19.45600000000001 
+            xmax = 20.48000000000001 
+            text = "epenthesis9403seed345_01_ch20_t" 
+        intervals [21]:
+            xmin = 20.48000000000001 
+            xmax = 21.504000000000012 
+            text = "epenthesis9403seed345_01_ch21" 
+        intervals [22]:
+            xmin = 21.504000000000012 
+            xmax = 22.528000000000013 
+            text = "epenthesis9403seed345_01_ch22" 
+        intervals [23]:
+            xmin = 22.528000000000013 
+            xmax = 23.552000000000014 
+            text = "epenthesis9403seed345_01_ch23_p" 
+        intervals [24]:
+            xmin = 23.552000000000014 
+            xmax = 24.576000000000015 
+            text = "epenthesis9403seed345_01_ch24" 
+        intervals [25]:
+            xmin = 24.576000000000015 
+            xmax = 25.600000000000016 
+            text = "epenthesis9403seed345_01_ch25_t" 
+        intervals [26]:
+            xmin = 25.600000000000016 
+            xmax = 26.624000000000017 
+            text = "epenthesis9403seed345_01_ch26" 
+        intervals [27]:
+            xmin = 26.624000000000017 
+            xmax = 27.648000000000017 
+            text = "epenthesis9403seed345_01_ch27_p" 
+        intervals [28]:
+            xmin = 27.648000000000017 
+            xmax = 28.67200000000002 
+            text = "epenthesis9403seed345_01_ch28" 
+        intervals [29]:
+            xmin = 28.67200000000002 
+            xmax = 29.69600000000002 
+            text = "epenthesis9403seed345_01_ch29" 
+        intervals [30]:
+            xmin = 29.69600000000002 
+            xmax = 30.72000000000002 
+            text = "epenthesis9403seed345_01_ch30_p" 
+        intervals [31]:
+            xmin = 30.72000000000002 
+            xmax = 31.74400000000002 
+            text = "epenthesis9403seed345_01_ch31" 
+        intervals [32]:
+            xmin = 31.74400000000002 
+            xmax = 32.76800000000002 
+            text = "epenthesis9403seed345_01_ch32" 
+        intervals [33]:
+            xmin = 32.76800000000002 
+            xmax = 33.79200000000002 
+            text = "epenthesis9403seed345_01_ch33" 
+        intervals [34]:
+            xmin = 33.79200000000002 
+            xmax = 34.816000000000024 
+            text = "epenthesis9403seed345_01_ch34" 
+        intervals [35]:
+            xmin = 34.816000000000024 
+            xmax = 35.840000000000025 
+            text = "epenthesis9403seed345_01_ch35" 
+        intervals [36]:
+            xmin = 35.840000000000025 
+            xmax = 36.864000000000026 
+            text = "epenthesis9403seed345_01_ch36" 
+        intervals [37]:
+            xmin = 36.864000000000026 
+            xmax = 37.88800000000003 
+            text = "epenthesis9403seed345_01_ch37" 
+        intervals [38]:
+            xmin = 37.88800000000003 
+            xmax = 38.91200000000003 
+            text = "epenthesis9403seed345_01_ch38_p" 
+        intervals [39]:
+            xmin = 38.91200000000003 
+            xmax = 39.93600000000003 
+            text = "epenthesis9403seed345_01_ch39" 
+        intervals [40]:
+            xmin = 39.93600000000003 
+            xmax = 40.96000000000003 
+            text = "epenthesis9403seed345_01_ch40" 
+        intervals [41]:
+            xmin = 40.96000000000003 
+            xmax = 41.98400000000003 
+            text = "epenthesis9403seed345_01_ch41_t" 
+        intervals [42]:
+            xmin = 41.98400000000003 
+            xmax = 43.00800000000003 
+            text = "epenthesis9403seed345_01_ch42" 
+        intervals [43]:
+            xmin = 43.00800000000003 
+            xmax = 44.03200000000003 
+            text = "epenthesis9403seed345_01_ch43" 
+        intervals [44]:
+            xmin = 44.03200000000003 
+            xmax = 45.05600000000003 
+            text = "epenthesis9403seed345_01_ch44" 
+        intervals [45]:
+            xmin = 45.05600000000003 
+            xmax = 46.080000000000034 
+            text = "epenthesis9403seed345_01_ch45" 
+        intervals [46]:
+            xmin = 46.080000000000034 
+            xmax = 47.104000000000035 
+            text = "epenthesis9403seed345_01_ch46" 
+        intervals [47]:
+            xmin = 47.104000000000035 
+            xmax = 48.128000000000036 
+            text = "epenthesis9403seed345_01_ch47_X" 
+        intervals [48]:
+            xmin = 48.128000000000036 
+            xmax = 49.15200000000004 
+            text = "epenthesis9403seed345_01_ch48" 
+        intervals [49]:
+            xmin = 49.15200000000004 
+            xmax = 50.17600000000004 
+            text = "epenthesis9403seed345_01_ch49_p" 
+        intervals [50]:
+            xmin = 50.17600000000004 
+            xmax = 51.20000000000004 
+            text = "epenthesis9403seed345_01_ch50" 
+        intervals [51]:
+            xmin = 51.20000000000004 
+            xmax = 52.22400000000004 
+            text = "epenthesis9403seed345_01_ch51_p" 
+        intervals [52]:
+            xmin = 52.22400000000004 
+            xmax = 53.24800000000004 
+            text = "epenthesis9403seed345_01_ch52" 
+        intervals [53]:
+            xmin = 53.24800000000004 
+            xmax = 54.27200000000004 
+            text = "epenthesis9403seed345_01_ch53_p" 
+        intervals [54]:
+            xmin = 54.27200000000004 
+            xmax = 55.29600000000004 
+            text = "epenthesis9403seed345_01_ch54" 
+        intervals [55]:
+            xmin = 55.29600000000004 
+            xmax = 56.32000000000004 
+            text = "epenthesis9403seed345_01_ch55" 
+        intervals [56]:
+            xmin = 56.32000000000004 
+            xmax = 57.344000000000044 
+            text = "epenthesis9403seed345_01_ch56" 
+        intervals [57]:
+            xmin = 57.344000000000044 
+            xmax = 58.368000000000045 
+            text = "epenthesis9403seed345_01_ch57" 
+        intervals [58]:
+            xmin = 58.368000000000045 
+            xmax = 59.392000000000046 
+            text = "epenthesis9403seed345_01_ch58" 
+        intervals [59]:
+            xmin = 59.392000000000046 
+            xmax = 60.41600000000005 
+            text = "epenthesis9403seed345_01_ch59" 
+        intervals [60]:
+            xmin = 60.41600000000005 
+            xmax = 61.44000000000005 
+            text = "epenthesis9403seed345_01_ch60_t" 
+        intervals [61]:
+            xmin = 61.44000000000005 
+            xmax = 62.46400000000005 
+            text = "epenthesis9403seed345_01_ch61" 
+        intervals [62]:
+            xmin = 62.46400000000005 
+            xmax = 63.48800000000005 
+            text = "epenthesis9403seed345_01_ch62" 
+        intervals [63]:
+            xmin = 63.48800000000005 
+            xmax = 64.51200000000004 
+            text = "epenthesis9403seed345_01_ch63" 
+        intervals [64]:
+            xmin = 64.51200000000004 
+            xmax = 65.53600000000004 
+            text = "epenthesis9403seed345_01_ch64" 
+        intervals [65]:
+            xmin = 65.53600000000004 
+            xmax = 66.56000000000004 
+            text = "epenthesis9403seed345_01_ch65" 
+        intervals [66]:
+            xmin = 66.56000000000004 
+            xmax = 67.58400000000005 
+            text = "epenthesis9403seed345_01_ch66" 
+        intervals [67]:
+            xmin = 67.58400000000005 
+            xmax = 68.60800000000005 
+            text = "epenthesis9403seed345_01_ch67" 
+        intervals [68]:
+            xmin = 68.60800000000005 
+            xmax = 69.63200000000005 
+            text = "epenthesis9403seed345_01_ch68_p" 
+        intervals [69]:
+            xmin = 69.63200000000005 
+            xmax = 70.65600000000005 
+            text = "epenthesis9403seed345_01_ch69" 
+        intervals [70]:
+            xmin = 70.65600000000005 
+            xmax = 71.68000000000005 
+            text = "epenthesis9403seed345_01_ch70_t" 
+        intervals [71]:
+            xmin = 71.68000000000005 
+            xmax = 72.70400000000005 
+            text = "epenthesis9403seed345_01_ch71" 
+        intervals [72]:
+            xmin = 72.70400000000005 
+            xmax = 73.72800000000005 
+            text = "epenthesis9403seed345_01_ch72" 
+        intervals [73]:
+            xmin = 73.72800000000005 
+            xmax = 74.75200000000005 
+            text = "epenthesis9403seed345_01_ch73" 
+        intervals [74]:
+            xmin = 74.75200000000005 
+            xmax = 75.77600000000005 
+            text = "epenthesis9403seed345_01_ch74" 
+        intervals [75]:
+            xmin = 75.77600000000005 
+            xmax = 76.80000000000005 
+            text = "epenthesis9403seed345_01_ch75" 
+        intervals [76]:
+            xmin = 76.80000000000005 
+            xmax = 77.82400000000005 
+            text = "epenthesis9403seed345_01_ch76" 
+        intervals [77]:
+            xmin = 77.82400000000005 
+            xmax = 78.84800000000006 
+            text = "epenthesis9403seed345_01_ch77" 
+        intervals [78]:
+            xmin = 78.84800000000006 
+            xmax = 79.87200000000006 
+            text = "epenthesis9403seed345_01_ch78" 
+        intervals [79]:
+            xmin = 79.87200000000006 
+            xmax = 80.89600000000006 
+            text = "epenthesis9403seed345_01_ch79" 
+        intervals [80]:
+            xmin = 80.89600000000006 
+            xmax = 81.92000000000006 
+            text = "epenthesis9403seed345_01_ch80" 
+        intervals [81]:
+            xmin = 81.92000000000006 
+            xmax = 82.94400000000006 
+            text = "epenthesis9403seed345_01_ch81" 
+        intervals [82]:
+            xmin = 82.94400000000006 
+            xmax = 83.96800000000006 
+            text = "epenthesis9403seed345_01_ch82" 
+        intervals [83]:
+            xmin = 83.96800000000006 
+            xmax = 84.99200000000006 
+            text = "epenthesis9403seed345_01_ch83_t" 
+        intervals [84]:
+            xmin = 84.99200000000006 
+            xmax = 86.01600000000006 
+            text = "epenthesis9403seed345_01_ch84" 
+        intervals [85]:
+            xmin = 86.01600000000006 
+            xmax = 87.04000000000006 
+            text = "epenthesis9403seed345_01_ch85" 
+        intervals [86]:
+            xmin = 87.04000000000006 
+            xmax = 88.06400000000006 
+            text = "epenthesis9403seed345_01_ch86" 
+        intervals [87]:
+            xmin = 88.06400000000006 
+            xmax = 89.08800000000006 
+            text = "epenthesis9403seed345_01_ch87" 
+        intervals [88]:
+            xmin = 89.08800000000006 
+            xmax = 90.11200000000007 
+            text = "epenthesis9403seed345_01_ch88" 
+        intervals [89]:
+            xmin = 90.11200000000007 
+            xmax = 91.13600000000007 
+            text = "epenthesis9403seed345_01_ch89" 
+        intervals [90]:
+            xmin = 91.13600000000007 
+            xmax = 92.16000000000007 
+            text = "epenthesis9403seed345_01_ch90" 
+        intervals [91]:
+            xmin = 92.16000000000007 
+            xmax = 93.18400000000007 
+            text = "epenthesis9403seed345_01_ch91_p" 
+        intervals [92]:
+            xmin = 93.18400000000007 
+            xmax = 94.20800000000007 
+            text = "epenthesis9403seed345_01_ch92" 
+        intervals [93]:
+            xmin = 94.20800000000007 
+            xmax = 95.23200000000007 
+            text = "epenthesis9403seed345_01_ch93_t" 
+        intervals [94]:
+            xmin = 95.23200000000007 
+            xmax = 96.25600000000007 
+            text = "epenthesis9403seed345_01_ch94" 
+        intervals [95]:
+            xmin = 96.25600000000007 
+            xmax = 97.28000000000007 
+            text = "epenthesis9403seed345_01_ch95" 
+        intervals [96]:
+            xmin = 97.28000000000007 
+            xmax = 98.30400000000007 
+            text = "epenthesis9403seed345_01_ch96" 
+        intervals [97]:
+            xmin = 98.30400000000007 
+            xmax = 99.32800000000007 
+            text = "epenthesis9403seed345_01_ch97" 
+        intervals [98]:
+            xmin = 99.32800000000007 
+            xmax = 100.35200000000007 
+            text = "epenthesis9403seed345_01_ch98" 
+        intervals [99]:
+            xmin = 100.35200000000007 
+            xmax = 101.37600000000008 
+            text = "epenthesis9403seed345_01_ch99_t" 
+        intervals [100]:
+            xmin = 101.37600000000008 
+            xmax = 102.40000000000008 
+            text = "epenthesis9403seed345_01_ch100_t" 
+        intervals [101]:
+            xmin = 102.40000000000008 
+            xmax = 103.42400000000008 
+            text = "epenthesis9403seed345_01_ch101" 
+        intervals [102]:
+            xmin = 103.42400000000008 
+            xmax = 104.44800000000008 
+            text = "epenthesis9403seed345_01_ch102" 
+        intervals [103]:
+            xmin = 104.44800000000008 
+            xmax = 105.47200000000008 
+            text = "epenthesis9403seed345_01_ch103_t" 
+        intervals [104]:
+            xmin = 105.47200000000008 
+            xmax = 106.49600000000008 
+            text = "epenthesis9403seed345_01_ch104" 
+        intervals [105]:
+            xmin = 106.49600000000008 
+            xmax = 107.52000000000008 
+            text = "epenthesis9403seed345_01_ch105_p" 
+        intervals [106]:
+            xmin = 107.52000000000008 
+            xmax = 108.54400000000008 
+            text = "epenthesis9403seed345_01_ch106" 
+        intervals [107]:
+            xmin = 108.54400000000008 
+            xmax = 109.56800000000008 
+            text = "epenthesis9403seed345_01_ch107" 
+        intervals [108]:
+            xmin = 109.56800000000008 
+            xmax = 110.59200000000008 
+            text = "epenthesis9403seed345_01_ch108" 
+        intervals [109]:
+            xmin = 110.59200000000008 
+            xmax = 111.61600000000008 
+            text = "epenthesis9403seed345_01_ch109_p" 
+        intervals [110]:
+            xmin = 111.61600000000008 
+            xmax = 112.64000000000009 
+            text = "epenthesis9403seed345_01_ch110" 
+        intervals [111]:
+            xmin = 112.64000000000009 
+            xmax = 113.66400000000009 
+            text = "epenthesis9403seed345_01_ch111_p" 
+        intervals [112]:
+            xmin = 113.66400000000009 
+            xmax = 114.68800000000009 
+            text = "epenthesis9403seed345_01_ch112_pX" 
+        intervals [113]:
+            xmin = 114.68800000000009 
+            xmax = 115.71200000000009 
+            text = "epenthesis9403seed345_01_ch113" 
+        intervals [114]:
+            xmin = 115.71200000000009 
+            xmax = 116.73600000000009 
+            text = "epenthesis9403seed345_01_ch114" 
+        intervals [115]:
+            xmin = 116.73600000000009 
+            xmax = 117.76000000000009 
+            text = "epenthesis9403seed345_01_ch115" 
+        intervals [116]:
+            xmin = 117.76000000000009 
+            xmax = 118.78400000000009 
+            text = "epenthesis9403seed345_01_ch116_p" 
+        intervals [117]:
+            xmin = 118.78400000000009 
+            xmax = 119.80800000000009 
+            text = "epenthesis9403seed345_01_ch117" 
+        intervals [118]:
+            xmin = 119.80800000000009 
+            xmax = 120.8320000000001 
+            text = "epenthesis9403seed345_01_ch118" 
+        intervals [119]:
+            xmin = 120.8320000000001 
+            xmax = 121.8560000000001 
+            text = "epenthesis9403seed345_01_ch119_p" 
+        intervals [120]:
+            xmin = 121.8560000000001 
+            xmax = 122.8800000000001 
+            text = "epenthesis9403seed345_01_ch120" 
+        intervals [121]:
+            xmin = 122.8800000000001 
+            xmax = 123.9040000000001 
+            text = "epenthesis9403seed345_01_ch121" 
+        intervals [122]:
+            xmin = 123.9040000000001 
+            xmax = 124.9280000000001 
+            text = "epenthesis9403seed345_01_ch122" 
+        intervals [123]:
+            xmin = 124.9280000000001 
+            xmax = 125.9520000000001 
+            text = "epenthesis9403seed345_01_ch123" 
+        intervals [124]:
+            xmin = 125.9520000000001 
+            xmax = 126.9760000000001 
+            text = "epenthesis9403seed345_01_ch124" 
+        intervals [125]:
+            xmin = 126.9760000000001 
+            xmax = 128.00000000000009 
+            text = "epenthesis9403seed345_01_ch125" 
+        intervals [126]:
+            xmin = 128.00000000000009 
+            xmax = 129.0240000000001 
+            text = "epenthesis9403seed345_01_ch126" 
+        intervals [127]:
+            xmin = 129.0240000000001 
+            xmax = 130.0480000000001 
+            text = "epenthesis9403seed345_01_ch127" 
+        intervals [128]:
+            xmin = 130.0480000000001 
+            xmax = 131.0720000000001 
+            text = "epenthesis9403seed345_01_ch128" 
+        intervals [129]:
+            xmin = 131.0720000000001 
+            xmax = 132.0960000000001 
+            text = "epenthesis9403seed345_01_ch129" 
+        intervals [130]:
+            xmin = 132.0960000000001 
+            xmax = 133.1200000000001 
+            text = "epenthesis9403seed345_01_ch130" 
+        intervals [131]:
+            xmin = 133.1200000000001 
+            xmax = 134.1440000000001 
+            text = "epenthesis9403seed345_01_ch131" 
+        intervals [132]:
+            xmin = 134.1440000000001 
+            xmax = 135.1680000000001 
+            text = "epenthesis9403seed345_01_ch132" 
+        intervals [133]:
+            xmin = 135.1680000000001 
+            xmax = 136.1920000000001 
+            text = "epenthesis9403seed345_01_ch133" 
+        intervals [134]:
+            xmin = 136.1920000000001 
+            xmax = 137.2160000000001 
+            text = "epenthesis9403seed345_01_ch134_t" 
+        intervals [135]:
+            xmin = 137.2160000000001 
+            xmax = 138.2400000000001 
+            text = "epenthesis9403seed345_01_ch135_p" 
+        intervals [136]:
+            xmin = 138.2400000000001 
+            xmax = 139.2640000000001 
+            text = "epenthesis9403seed345_01_ch136" 
+        intervals [137]:
+            xmin = 139.2640000000001 
+            xmax = 140.2880000000001 
+            text = "epenthesis9403seed345_01_ch137" 
+        intervals [138]:
+            xmin = 140.2880000000001 
+            xmax = 141.3120000000001 
+            text = "epenthesis9403seed345_01_ch138" 
+        intervals [139]:
+            xmin = 141.3120000000001 
+            xmax = 142.3360000000001 
+            text = "epenthesis9403seed345_01_ch139" 
+        intervals [140]:
+            xmin = 142.3360000000001 
+            xmax = 143.3600000000001 
+            text = "epenthesis9403seed345_01_ch140" 
+        intervals [141]:
+            xmin = 143.3600000000001 
+            xmax = 144.3840000000001 
+            text = "epenthesis9403seed345_01_ch141_k" 
+        intervals [142]:
+            xmin = 144.3840000000001 
+            xmax = 145.4080000000001 
+            text = "epenthesis9403seed345_01_ch142" 
+        intervals [143]:
+            xmin = 145.4080000000001 
+            xmax = 146.4320000000001 
+            text = "epenthesis9403seed345_01_ch143" 
+        intervals [144]:
+            xmin = 146.4320000000001 
+            xmax = 147.4560000000001 
+            text = "epenthesis9403seed345_01_ch144" 
+        intervals [145]:
+            xmin = 147.4560000000001 
+            xmax = 148.4800000000001 
+            text = "epenthesis9403seed345_01_ch145_p" 
+        intervals [146]:
+            xmin = 148.4800000000001 
+            xmax = 149.5040000000001 
+            text = "epenthesis9403seed345_01_ch146" 
+        intervals [147]:
+            xmin = 149.5040000000001 
+            xmax = 150.5280000000001 
+            text = "epenthesis9403seed345_01_ch147" 
+        intervals [148]:
+            xmin = 150.5280000000001 
+            xmax = 151.5520000000001 
+            text = "epenthesis9403seed345_01_ch148" 
+        intervals [149]:
+            xmin = 151.5520000000001 
+            xmax = 152.5760000000001 
+            text = "epenthesis9403seed345_01_ch149" 
+        intervals [150]:
+            xmin = 152.5760000000001 
+            xmax = 153.6000000000001 
+            text = "epenthesis9403seed345_01_ch150" 
+        intervals [151]:
+            xmin = 153.6000000000001 
+            xmax = 154.6240000000001 
+            text = "epenthesis9403seed345_01_ch151" 
+        intervals [152]:
+            xmin = 154.6240000000001 
+            xmax = 155.6480000000001 
+            text = "epenthesis9403seed345_01_ch152" 
+        intervals [153]:
+            xmin = 155.6480000000001 
+            xmax = 156.6720000000001 
+            text = "epenthesis9403seed345_01_ch153_t" 
+        intervals [154]:
+            xmin = 156.6720000000001 
+            xmax = 157.6960000000001 
+            text = "epenthesis9403seed345_01_ch154" 
+        intervals [155]:
+            xmin = 157.6960000000001 
+            xmax = 158.7200000000001 
+            text = "epenthesis9403seed345_01_ch155_t" 
+        intervals [156]:
+            xmin = 158.7200000000001 
+            xmax = 159.7440000000001 
+            text = "epenthesis9403seed345_01_ch156" 
+        intervals [157]:
+            xmin = 159.7440000000001 
+            xmax = 160.76800000000011 
+            text = "epenthesis9403seed345_01_ch157" 
+        intervals [158]:
+            xmin = 160.76800000000011 
+            xmax = 161.79200000000012 
+            text = "epenthesis9403seed345_01_ch158_p" 
+        intervals [159]:
+            xmin = 161.79200000000012 
+            xmax = 162.81600000000012 
+            text = "epenthesis9403seed345_01_ch159" 
+        intervals [160]:
+            xmin = 162.81600000000012 
+            xmax = 163.84000000000012 
+            text = "epenthesis9403seed345_01_ch160" 
+        intervals [161]:
+            xmin = 163.84000000000012 
+            xmax = 164.86400000000012 
+            text = "epenthesis9403seed345_01_ch161" 
+        intervals [162]:
+            xmin = 164.86400000000012 
+            xmax = 165.88800000000012 
+            text = "epenthesis9403seed345_01_ch162" 
+        intervals [163]:
+            xmin = 165.88800000000012 
+            xmax = 166.91200000000012 
+            text = "epenthesis9403seed345_01_ch163" 
+        intervals [164]:
+            xmin = 166.91200000000012 
+            xmax = 167.93600000000012 
+            text = "epenthesis9403seed345_01_ch164" 
+        intervals [165]:
+            xmin = 167.93600000000012 
+            xmax = 168.96000000000012 
+            text = "epenthesis9403seed345_01_ch165" 
+        intervals [166]:
+            xmin = 168.96000000000012 
+            xmax = 169.98400000000012 
+            text = "epenthesis9403seed345_01_ch166" 
+        intervals [167]:
+            xmin = 169.98400000000012 
+            xmax = 171.00800000000012 
+            text = "epenthesis9403seed345_01_ch167_X" 
+        intervals [168]:
+            xmin = 171.00800000000012 
+            xmax = 172.03200000000012 
+            text = "epenthesis9403seed345_01_ch168" 
+        intervals [169]:
+            xmin = 172.03200000000012 
+            xmax = 173.05600000000013 
+            text = "epenthesis9403seed345_01_ch169_p" 
+        intervals [170]:
+            xmin = 173.05600000000013 
+            xmax = 174.08000000000013 
+            text = "epenthesis9403seed345_01_ch170" 
+        intervals [171]:
+            xmin = 174.08000000000013 
+            xmax = 175.10400000000013 
+            text = "epenthesis9403seed345_01_ch171" 
+        intervals [172]:
+            xmin = 175.10400000000013 
+            xmax = 176.12800000000013 
+            text = "epenthesis9403seed345_01_ch172" 
+        intervals [173]:
+            xmin = 176.12800000000013 
+            xmax = 177.15200000000013 
+            text = "epenthesis9403seed345_01_ch173" 
+        intervals [174]:
+            xmin = 177.15200000000013 
+            xmax = 178.17600000000013 
+            text = "epenthesis9403seed345_01_ch174" 
+        intervals [175]:
+            xmin = 178.17600000000013 
+            xmax = 179.20000000000013 
+            text = "epenthesis9403seed345_01_ch175" 
+        intervals [176]:
+            xmin = 179.20000000000013 
+            xmax = 180.22400000000013 
+            text = "epenthesis9403seed345_01_ch176" 
+        intervals [177]:
+            xmin = 180.22400000000013 
+            xmax = 181.24800000000013 
+            text = "epenthesis9403seed345_01_ch177_t" 
+        intervals [178]:
+            xmin = 181.24800000000013 
+            xmax = 182.27200000000013 
+            text = "epenthesis9403seed345_01_ch178" 
+        intervals [179]:
+            xmin = 182.27200000000013 
+            xmax = 183.29600000000013 
+            text = "epenthesis9403seed345_01_ch179_t" 
+        intervals [180]:
+            xmin = 183.29600000000013 
+            xmax = 184.32000000000014 
+            text = "epenthesis9403seed345_01_ch180" 
+        intervals [181]:
+            xmin = 184.32000000000014 
+            xmax = 185.34400000000014 
+            text = "epenthesis9403seed345_01_ch181_t" 
+        intervals [182]:
+            xmin = 185.34400000000014 
+            xmax = 186.36800000000014 
+            text = "epenthesis9403seed345_01_ch182" 
+        intervals [183]:
+            xmin = 186.36800000000014 
+            xmax = 187.39200000000014 
+            text = "epenthesis9403seed345_01_ch183" 
+        intervals [184]:
+            xmin = 187.39200000000014 
+            xmax = 188.41600000000014 
+            text = "epenthesis9403seed345_01_ch184_p" 
+        intervals [185]:
+            xmin = 188.41600000000014 
+            xmax = 189.44000000000014 
+            text = "epenthesis9403seed345_01_ch185_p" 
+        intervals [186]:
+            xmin = 189.44000000000014 
+            xmax = 190.46400000000014 
+            text = "epenthesis9403seed345_01_ch186" 
+        intervals [187]:
+            xmin = 190.46400000000014 
+            xmax = 191.48800000000014 
+            text = "epenthesis9403seed345_01_ch187" 
+        intervals [188]:
+            xmin = 191.48800000000014 
+            xmax = 192.51200000000014 
+            text = "epenthesis9403seed345_01_ch188" 
+        intervals [189]:
+            xmin = 192.51200000000014 
+            xmax = 193.53600000000014 
+            text = "epenthesis9403seed345_01_ch189" 
+        intervals [190]:
+            xmin = 193.53600000000014 
+            xmax = 194.56000000000014 
+            text = "epenthesis9403seed345_01_ch190" 
+        intervals [191]:
+            xmin = 194.56000000000014 
+            xmax = 195.58400000000015 
+            text = "epenthesis9403seed345_01_ch191" 
+        intervals [192]:
+            xmin = 195.58400000000015 
+            xmax = 196.60800000000015 
+            text = "epenthesis9403seed345_01_ch192" 
+        intervals [193]:
+            xmin = 196.60800000000015 
+            xmax = 197.63200000000015 
+            text = "epenthesis9403seed345_01_ch193" 
+        intervals [194]:
+            xmin = 197.63200000000015 
+            xmax = 198.65600000000015 
+            text = "epenthesis9403seed345_01_ch194" 
+        intervals [195]:
+            xmin = 198.65600000000015 
+            xmax = 199.68000000000015 
+            text = "epenthesis9403seed345_01_ch195" 
+        intervals [196]:
+            xmin = 199.68000000000015 
+            xmax = 200.70400000000015 
+            text = "epenthesis9403seed345_01_ch196" 
+        intervals [197]:
+            xmin = 200.70400000000015 
+            xmax = 201.72800000000015 
+            text = "epenthesis9403seed345_01_ch197" 
+        intervals [198]:
+            xmin = 201.72800000000015 
+            xmax = 202.75200000000015 
+            text = "epenthesis9403seed345_01_ch198" 
+        intervals [199]:
+            xmin = 202.75200000000015 
+            xmax = 203.77600000000015 
+            text = "epenthesis9403seed345_01_ch199" 
+        intervals [200]:
+            xmin = 203.77600000000015 
+            xmax = 204.80000000000015 
+            text = "epenthesis9403seed345_01_ch200_p" 
+        intervals [201]:
+            xmin = 204.80000000000015 
+            xmax = 205.82400000000015 
+            text = "epenthesis9403seed345_01_ch201" 
+        intervals [202]:
+            xmin = 205.82400000000015 
+            xmax = 206.84800000000016 
+            text = "epenthesis9403seed345_01_ch202_p" 
+        intervals [203]:
+            xmin = 206.84800000000016 
+            xmax = 207.87200000000016 
+            text = "epenthesis9403seed345_01_ch203" 
+        intervals [204]:
+            xmin = 207.87200000000016 
+            xmax = 208.89600000000016 
+            text = "epenthesis9403seed345_01_ch204" 
+        intervals [205]:
+            xmin = 208.89600000000016 
+            xmax = 209.92000000000016 
+            text = "epenthesis9403seed345_01_ch205" 
+        intervals [206]:
+            xmin = 209.92000000000016 
+            xmax = 210.94400000000016 
+            text = "epenthesis9403seed345_01_ch206" 
+        intervals [207]:
+            xmin = 210.94400000000016 
+            xmax = 211.96800000000016 
+            text = "epenthesis9403seed345_01_ch207" 
+        intervals [208]:
+            xmin = 211.96800000000016 
+            xmax = 212.99200000000016 
+            text = "epenthesis9403seed345_01_ch208" 
+        intervals [209]:
+            xmin = 212.99200000000016 
+            xmax = 214.01600000000016 
+            text = "epenthesis9403seed345_01_ch209" 
+        intervals [210]:
+            xmin = 214.01600000000016 
+            xmax = 215.04000000000016 
+            text = "epenthesis9403seed345_01_ch210" 
+        intervals [211]:
+            xmin = 215.04000000000016 
+            xmax = 216.06400000000016 
+            text = "epenthesis9403seed345_01_ch211" 
+        intervals [212]:
+            xmin = 216.06400000000016 
+            xmax = 217.08800000000016 
+            text = "epenthesis9403seed345_01_ch212" 
+        intervals [213]:
+            xmin = 217.08800000000016 
+            xmax = 218.11200000000017 
+            text = "epenthesis9403seed345_01_ch213" 
+        intervals [214]:
+            xmin = 218.11200000000017 
+            xmax = 219.13600000000017 
+            text = "epenthesis9403seed345_01_ch214_t" 
+        intervals [215]:
+            xmin = 219.13600000000017 
+            xmax = 220.16000000000017 
+            text = "epenthesis9403seed345_01_ch215" 
+        intervals [216]:
+            xmin = 220.16000000000017 
+            xmax = 221.18400000000017 
+            text = "epenthesis9403seed345_01_ch216" 
+        intervals [217]:
+            xmin = 221.18400000000017 
+            xmax = 222.20800000000017 
+            text = "epenthesis9403seed345_01_ch217" 
+        intervals [218]:
+            xmin = 222.20800000000017 
+            xmax = 223.23200000000017 
+            text = "epenthesis9403seed345_01_ch218" 
+        intervals [219]:
+            xmin = 223.23200000000017 
+            xmax = 224.25600000000017 
+            text = "epenthesis9403seed345_01_ch219_t" 
+        intervals [220]:
+            xmin = 224.25600000000017 
+            xmax = 225.28000000000017 
+            text = "epenthesis9403seed345_01_ch220" 
+        intervals [221]:
+            xmin = 225.28000000000017 
+            xmax = 226.30400000000017 
+            text = "epenthesis9403seed345_01_ch221" 
+        intervals [222]:
+            xmin = 226.30400000000017 
+            xmax = 227.32800000000017 
+            text = "epenthesis9403seed345_01_ch222" 
+        intervals [223]:
+            xmin = 227.32800000000017 
+            xmax = 228.35200000000017 
+            text = "epenthesis9403seed345_01_ch223_t" 
+        intervals [224]:
+            xmin = 228.35200000000017 
+            xmax = 229.37600000000018 
+            text = "epenthesis9403seed345_01_ch224" 
+        intervals [225]:
+            xmin = 229.37600000000018 
+            xmax = 230.40000000000018 
+            text = "epenthesis9403seed345_01_ch225" 
+        intervals [226]:
+            xmin = 230.40000000000018 
+            xmax = 231.42400000000018 
+            text = "epenthesis9403seed345_01_ch226" 
+        intervals [227]:
+            xmin = 231.42400000000018 
+            xmax = 232.44800000000018 
+            text = "epenthesis9403seed345_01_ch227" 
+        intervals [228]:
+            xmin = 232.44800000000018 
+            xmax = 233.47200000000018 
+            text = "epenthesis9403seed345_01_ch228" 
+        intervals [229]:
+            xmin = 233.47200000000018 
+            xmax = 234.49600000000018 
+            text = "epenthesis9403seed345_01_ch229" 
+        intervals [230]:
+            xmin = 234.49600000000018 
+            xmax = 235.52000000000018 
+            text = "epenthesis9403seed345_01_ch230_p" 
+        intervals [231]:
+            xmin = 235.52000000000018 
+            xmax = 236.54400000000018 
+            text = "epenthesis9403seed345_01_ch231_p" 
+        intervals [232]:
+            xmin = 236.54400000000018 
+            xmax = 237.56800000000018 
+            text = "epenthesis9403seed345_01_ch232" 
+        intervals [233]:
+            xmin = 237.56800000000018 
+            xmax = 238.59200000000018 
+            text = "epenthesis9403seed345_01_ch233" 
+        intervals [234]:
+            xmin = 238.59200000000018 
+            xmax = 239.61600000000018 
+            text = "epenthesis9403seed345_01_ch234" 
+        intervals [235]:
+            xmin = 239.61600000000018 
+            xmax = 240.64000000000019 
+            text = "epenthesis9403seed345_01_ch235" 
+        intervals [236]:
+            xmin = 240.64000000000019 
+            xmax = 241.6640000000002 
+            text = "epenthesis9403seed345_01_ch236" 
+        intervals [237]:
+            xmin = 241.6640000000002 
+            xmax = 242.6880000000002 
+            text = "epenthesis9403seed345_01_ch237" 
+        intervals [238]:
+            xmin = 242.6880000000002 
+            xmax = 243.7120000000002 
+            text = "epenthesis9403seed345_01_ch238" 
+        intervals [239]:
+            xmin = 243.7120000000002 
+            xmax = 244.7360000000002 
+            text = "epenthesis9403seed345_01_ch239" 
+        intervals [240]:
+            xmin = 244.7360000000002 
+            xmax = 245.7600000000002 
+            text = "epenthesis9403seed345_01_ch240_p" 
+        intervals [241]:
+            xmin = 245.7600000000002 
+            xmax = 246.7840000000002 
+            text = "epenthesis9403seed345_01_ch241" 
+        intervals [242]:
+            xmin = 246.7840000000002 
+            xmax = 247.8080000000002 
+            text = "epenthesis9403seed345_01_ch242_t" 
+        intervals [243]:
+            xmin = 247.8080000000002 
+            xmax = 248.8320000000002 
+            text = "epenthesis9403seed345_01_ch243" 
+        intervals [244]:
+            xmin = 248.8320000000002 
+            xmax = 249.8560000000002 
+            text = "epenthesis9403seed345_01_ch244" 
+        intervals [245]:
+            xmin = 249.8560000000002 
+            xmax = 250.8800000000002 
+            text = "epenthesis9403seed345_01_ch245" 
+        intervals [246]:
+            xmin = 250.8800000000002 
+            xmax = 251.9040000000002 
+            text = "epenthesis9403seed345_01_ch246" 
+        intervals [247]:
+            xmin = 251.9040000000002 
+            xmax = 252.9280000000002 
+            text = "epenthesis9403seed345_01_ch247" 
+        intervals [248]:
+            xmin = 252.9280000000002 
+            xmax = 253.9520000000002 
+            text = "epenthesis9403seed345_01_ch248" 
+        intervals [249]:
+            xmin = 253.9520000000002 
+            xmax = 254.9760000000002 
+            text = "epenthesis9403seed345_01_ch249" 
+        intervals [250]:
+            xmin = 254.9760000000002 
+            xmax = 256.00000000000017 
+            text = "epenthesis9403seed345_01_ch250_t" 
+        intervals [251]:
+            xmin = 256.00000000000017 
+            xmax = 257.02400000000017 
+            text = "epenthesis9403seed345_01_ch251_p" 
+        intervals [252]:
+            xmin = 257.02400000000017 
+            xmax = 258.0480000000002 
+            text = "epenthesis9403seed345_01_ch252_p" 
+        intervals [253]:
+            xmin = 258.0480000000002 
+            xmax = 259.0720000000002 
+            text = "epenthesis9403seed345_01_ch253_t" 
+        intervals [254]:
+            xmin = 259.0720000000002 
+            xmax = 260.0960000000002 
+            text = "epenthesis9403seed345_01_ch254" 
+        intervals [255]:
+            xmin = 260.0960000000002 
+            xmax = 261.1200000000002 
+            text = "epenthesis9403seed345_01_ch255" 
+        intervals [256]:
+            xmin = 261.1200000000002 
+            xmax = 262.1440000000002 
+            text = "epenthesis9403seed345_01_ch256_p" 
+        intervals [257]:
+            xmin = 262.1440000000002 
+            xmax = 263.1680000000002 
+            text = "epenthesis9403seed345_01_ch257" 
+        intervals [258]:
+            xmin = 263.1680000000002 
+            xmax = 264.1920000000002 
+            text = "epenthesis9403seed345_01_ch258" 
+        intervals [259]:
+            xmin = 264.1920000000002 
+            xmax = 265.2160000000002 
+            text = "epenthesis9403seed345_01_ch259" 
+        intervals [260]:
+            xmin = 265.2160000000002 
+            xmax = 266.2400000000002 
+            text = "epenthesis9403seed345_01_ch260_t" 
+        intervals [261]:
+            xmin = 266.2400000000002 
+            xmax = 267.2640000000002 
+            text = "epenthesis9403seed345_01_ch261" 
+        intervals [262]:
+            xmin = 267.2640000000002 
+            xmax = 268.2880000000002 
+            text = "epenthesis9403seed345_01_ch262" 
+        intervals [263]:
+            xmin = 268.2880000000002 
+            xmax = 269.3120000000002 
+            text = "epenthesis9403seed345_01_ch263" 
+        intervals [264]:
+            xmin = 269.3120000000002 
+            xmax = 270.3360000000002 
+            text = "epenthesis9403seed345_01_ch264" 
+        intervals [265]:
+            xmin = 270.3360000000002 
+            xmax = 271.3600000000002 
+            text = "epenthesis9403seed345_01_ch265" 
+        intervals [266]:
+            xmin = 271.3600000000002 
+            xmax = 272.3840000000002 
+            text = "epenthesis9403seed345_01_ch266" 
+        intervals [267]:
+            xmin = 272.3840000000002 
+            xmax = 273.4080000000002 
+            text = "epenthesis9403seed345_01_ch267" 
+        intervals [268]:
+            xmin = 273.4080000000002 
+            xmax = 274.4320000000002 
+            text = "epenthesis9403seed345_01_ch268" 
+        intervals [269]:
+            xmin = 274.4320000000002 
+            xmax = 275.4560000000002 
+            text = "epenthesis9403seed345_01_ch269_t" 
+        intervals [270]:
+            xmin = 275.4560000000002 
+            xmax = 276.4800000000002 
+            text = "epenthesis9403seed345_01_ch270" 
+        intervals [271]:
+            xmin = 276.4800000000002 
+            xmax = 277.5040000000002 
+            text = "epenthesis9403seed345_01_ch271" 
+        intervals [272]:
+            xmin = 277.5040000000002 
+            xmax = 278.5280000000002 
+            text = "epenthesis9403seed345_01_ch272" 
+        intervals [273]:
+            xmin = 278.5280000000002 
+            xmax = 279.5520000000002 
+            text = "epenthesis9403seed345_01_ch273" 
+        intervals [274]:
+            xmin = 279.5520000000002 
+            xmax = 280.5760000000002 
+            text = "epenthesis9403seed345_01_ch274" 
+        intervals [275]:
+            xmin = 280.5760000000002 
+            xmax = 281.6000000000002 
+            text = "epenthesis9403seed345_01_ch275" 
+        intervals [276]:
+            xmin = 281.6000000000002 
+            xmax = 282.6240000000002 
+            text = "epenthesis9403seed345_01_ch276" 
+        intervals [277]:
+            xmin = 282.6240000000002 
+            xmax = 283.6480000000002 
+            text = "epenthesis9403seed345_01_ch277" 
+        intervals [278]:
+            xmin = 283.6480000000002 
+            xmax = 284.6720000000002 
+            text = "epenthesis9403seed345_01_ch278" 
+        intervals [279]:
+            xmin = 284.6720000000002 
+            xmax = 285.6960000000002 
+            text = "epenthesis9403seed345_01_ch279" 
+        intervals [280]:
+            xmin = 285.6960000000002 
+            xmax = 286.7200000000002 
+            text = "epenthesis9403seed345_01_ch280" 
+        intervals [281]:
+            xmin = 286.7200000000002 
+            xmax = 287.7440000000002 
+            text = "epenthesis9403seed345_01_ch281" 
+        intervals [282]:
+            xmin = 287.7440000000002 
+            xmax = 288.7680000000002 
+            text = "epenthesis9403seed345_01_ch282" 
+        intervals [283]:
+            xmin = 288.7680000000002 
+            xmax = 289.7920000000002 
+            text = "epenthesis9403seed345_01_ch283" 
+        intervals [284]:
+            xmin = 289.7920000000002 
+            xmax = 290.8160000000002 
+            text = "epenthesis9403seed345_01_ch284" 
+        intervals [285]:
+            xmin = 290.8160000000002 
+            xmax = 291.8400000000002 
+            text = "epenthesis9403seed345_01_ch285" 
+        intervals [286]:
+            xmin = 291.8400000000002 
+            xmax = 292.8640000000002 
+            text = "epenthesis9403seed345_01_ch286" 
+        intervals [287]:
+            xmin = 292.8640000000002 
+            xmax = 293.8880000000002 
+            text = "epenthesis9403seed345_01_ch287" 
+        intervals [288]:
+            xmin = 293.8880000000002 
+            xmax = 294.9120000000002 
+            text = "epenthesis9403seed345_01_ch288" 
+        intervals [289]:
+            xmin = 294.9120000000002 
+            xmax = 295.9360000000002 
+            text = "epenthesis9403seed345_01_ch289_p" 
+        intervals [290]:
+            xmin = 295.9360000000002 
+            xmax = 296.9600000000002 
+            text = "epenthesis9403seed345_01_ch290" 
+        intervals [291]:
+            xmin = 296.9600000000002 
+            xmax = 297.9840000000002 
+            text = "epenthesis9403seed345_01_ch291" 
+        intervals [292]:
+            xmin = 297.9840000000002 
+            xmax = 299.0080000000002 
+            text = "epenthesis9403seed345_01_ch292_t" 
+        intervals [293]:
+            xmin = 299.0080000000002 
+            xmax = 300.0320000000002 
+            text = "epenthesis9403seed345_01_ch293" 
+        intervals [294]:
+            xmin = 300.0320000000002 
+            xmax = 301.0560000000002 
+            text = "epenthesis9403seed345_01_ch294" 
+        intervals [295]:
+            xmin = 301.0560000000002 
+            xmax = 302.0800000000002 
+            text = "epenthesis9403seed345_01_ch295" 
+        intervals [296]:
+            xmin = 302.0800000000002 
+            xmax = 303.1040000000002 
+            text = "epenthesis9403seed345_01_ch296" 
+        intervals [297]:
+            xmin = 303.1040000000002 
+            xmax = 304.1280000000002 
+            text = "epenthesis9403seed345_01_ch297" 
+        intervals [298]:
+            xmin = 304.1280000000002 
+            xmax = 305.1520000000002 
+            text = "epenthesis9403seed345_01_ch298" 
+        intervals [299]:
+            xmin = 305.1520000000002 
+            xmax = 306.1760000000002 
+            text = "epenthesis9403seed345_01_ch299" 
+        intervals [300]:
+            xmin = 306.1760000000002 
+            xmax = 307.2000000000002 
+            text = "epenthesis9403seed345_01_ch300" 
+        intervals [301]:
+            xmin = 307.2000000000002 
+            xmax = 308.2240000000002 
+            text = "epenthesis9403seed345_01_ch301" 
+        intervals [302]:
+            xmin = 308.2240000000002 
+            xmax = 309.2480000000002 
+            text = "epenthesis9403seed345_01_ch302" 
+        intervals [303]:
+            xmin = 309.2480000000002 
+            xmax = 310.2720000000002 
+            text = "epenthesis9403seed345_01_ch303" 
+        intervals [304]:
+            xmin = 310.2720000000002 
+            xmax = 311.2960000000002 
+            text = "epenthesis9403seed345_01_ch304" 
+        intervals [305]:
+            xmin = 311.2960000000002 
+            xmax = 312.3200000000002 
+            text = "epenthesis9403seed345_01_ch305" 
+        intervals [306]:
+            xmin = 312.3200000000002 
+            xmax = 313.3440000000002 
+            text = "epenthesis9403seed345_01_ch306_t" 
+        intervals [307]:
+            xmin = 313.3440000000002 
+            xmax = 314.3680000000002 
+            text = "epenthesis9403seed345_01_ch307" 
+        intervals [308]:
+            xmin = 314.3680000000002 
+            xmax = 315.3920000000002 
+            text = "epenthesis9403seed345_01_ch308" 
+        intervals [309]:
+            xmin = 315.3920000000002 
+            xmax = 316.4160000000002 
+            text = "epenthesis9403seed345_01_ch309" 
+        intervals [310]:
+            xmin = 316.4160000000002 
+            xmax = 317.4400000000002 
+            text = "epenthesis9403seed345_01_ch310" 
+        intervals [311]:
+            xmin = 317.4400000000002 
+            xmax = 318.4640000000002 
+            text = "epenthesis9403seed345_01_ch311" 
+        intervals [312]:
+            xmin = 318.4640000000002 
+            xmax = 319.4880000000002 
+            text = "epenthesis9403seed345_01_ch312" 
+        intervals [313]:
+            xmin = 319.4880000000002 
+            xmax = 320.5120000000002 
+            text = "epenthesis9403seed345_01_ch313" 
+        intervals [314]:
+            xmin = 320.5120000000002 
+            xmax = 321.53600000000023 
+            text = "epenthesis9403seed345_01_ch314" 
+        intervals [315]:
+            xmin = 321.53600000000023 
+            xmax = 322.56000000000023 
+            text = "epenthesis9403seed345_01_ch315" 
+        intervals [316]:
+            xmin = 322.56000000000023 
+            xmax = 323.58400000000023 
+            text = "epenthesis9403seed345_01_ch316" 
+        intervals [317]:
+            xmin = 323.58400000000023 
+            xmax = 324.60800000000023 
+            text = "epenthesis9403seed345_01_ch317_p" 
+        intervals [318]:
+            xmin = 324.60800000000023 
+            xmax = 325.63200000000023 
+            text = "epenthesis9403seed345_01_ch318" 
+        intervals [319]:
+            xmin = 325.63200000000023 
+            xmax = 326.65600000000023 
+            text = "epenthesis9403seed345_01_ch319" 
+        intervals [320]:
+            xmin = 326.65600000000023 
+            xmax = 327.68000000000023 
+            text = "epenthesis9403seed345_01_ch320" 
+        intervals [321]:
+            xmin = 327.68000000000023 
+            xmax = 328.70400000000024 
+            text = "epenthesis9403seed345_01_ch321" 
+        intervals [322]:
+            xmin = 328.70400000000024 
+            xmax = 329.72800000000024 
+            text = "epenthesis9403seed345_01_ch322" 
+        intervals [323]:
+            xmin = 329.72800000000024 
+            xmax = 330.75200000000024 
+            text = "epenthesis9403seed345_01_ch323" 
+        intervals [324]:
+            xmin = 330.75200000000024 
+            xmax = 331.77600000000024 
+            text = "epenthesis9403seed345_01_ch324_p" 
+        intervals [325]:
+            xmin = 331.77600000000024 
+            xmax = 332.80000000000024 
+            text = "epenthesis9403seed345_01_ch325" 
+        intervals [326]:
+            xmin = 332.80000000000024 
+            xmax = 333.82400000000024 
+            text = "epenthesis9403seed345_01_ch326" 
+        intervals [327]:
+            xmin = 333.82400000000024 
+            xmax = 334.84800000000024 
+            text = "epenthesis9403seed345_01_ch327" 
+        intervals [328]:
+            xmin = 334.84800000000024 
+            xmax = 335.87200000000024 
+            text = "epenthesis9403seed345_01_ch328" 
+        intervals [329]:
+            xmin = 335.87200000000024 
+            xmax = 336.89600000000024 
+            text = "epenthesis9403seed345_01_ch329" 
+        intervals [330]:
+            xmin = 336.89600000000024 
+            xmax = 337.92000000000024 
+            text = "epenthesis9403seed345_01_ch330_t" 
+        intervals [331]:
+            xmin = 337.92000000000024 
+            xmax = 338.94400000000024 
+            text = "epenthesis9403seed345_01_ch331" 
+        intervals [332]:
+            xmin = 338.94400000000024 
+            xmax = 339.96800000000025 
+            text = "epenthesis9403seed345_01_ch332_p" 
+        intervals [333]:
+            xmin = 339.96800000000025 
+            xmax = 340.99200000000025 
+            text = "epenthesis9403seed345_01_ch333" 
+        intervals [334]:
+            xmin = 340.99200000000025 
+            xmax = 342.01600000000025 
+            text = "epenthesis9403seed345_01_ch334_p" 
+        intervals [335]:
+            xmin = 342.01600000000025 
+            xmax = 343.04000000000025 
+            text = "epenthesis9403seed345_01_ch335" 
+        intervals [336]:
+            xmin = 343.04000000000025 
+            xmax = 344.06400000000025 
+            text = "epenthesis9403seed345_01_ch336" 
+        intervals [337]:
+            xmin = 344.06400000000025 
+            xmax = 345.08800000000025 
+            text = "epenthesis9403seed345_01_ch337_Xwawura" 
+        intervals [338]:
+            xmin = 345.08800000000025 
+            xmax = 346.11200000000025 
+            text = "epenthesis9403seed345_01_ch338" 
+        intervals [339]:
+            xmin = 346.11200000000025 
+            xmax = 347.13600000000025 
+            text = "epenthesis9403seed345_01_ch339" 
+        intervals [340]:
+            xmin = 347.13600000000025 
+            xmax = 348.16000000000025 
+            text = "epenthesis9403seed345_01_ch340" 
+        intervals [341]:
+            xmin = 348.16000000000025 
+            xmax = 349.18400000000025 
+            text = "epenthesis9403seed345_01_ch341" 
+        intervals [342]:
+            xmin = 349.18400000000025 
+            xmax = 350.20800000000025 
+            text = "epenthesis9403seed345_01_ch342" 
+        intervals [343]:
+            xmin = 350.20800000000025 
+            xmax = 351.23200000000026 
+            text = "epenthesis9403seed345_01_ch343" 
+        intervals [344]:
+            xmin = 351.23200000000026 
+            xmax = 352.25600000000026 
+            text = "epenthesis9403seed345_01_ch344_p" 
+        intervals [345]:
+            xmin = 352.25600000000026 
+            xmax = 353.28000000000026 
+            text = "epenthesis9403seed345_01_ch345" 
+        intervals [346]:
+            xmin = 353.28000000000026 
+            xmax = 354.30400000000026 
+            text = "epenthesis9403seed345_01_ch346" 
+        intervals [347]:
+            xmin = 354.30400000000026 
+            xmax = 355.32800000000026 
+            text = "epenthesis9403seed345_01_ch347" 
+        intervals [348]:
+            xmin = 355.32800000000026 
+            xmax = 356.35200000000026 
+            text = "epenthesis9403seed345_01_ch348_p" 
+        intervals [349]:
+            xmin = 356.35200000000026 
+            xmax = 357.37600000000026 
+            text = "epenthesis9403seed345_01_ch349" 
+        intervals [350]:
+            xmin = 357.37600000000026 
+            xmax = 358.40000000000026 
+            text = "epenthesis9403seed345_01_ch350_t" 
+        intervals [351]:
+            xmin = 358.40000000000026 
+            xmax = 359.42400000000026 
+            text = "epenthesis9403seed345_01_ch351_p" 
+        intervals [352]:
+            xmin = 359.42400000000026 
+            xmax = 360.44800000000026 
+            text = "epenthesis9403seed345_01_ch352" 
+        intervals [353]:
+            xmin = 360.44800000000026 
+            xmax = 361.47200000000026 
+            text = "epenthesis9403seed345_01_ch353" 
+        intervals [354]:
+            xmin = 361.47200000000026 
+            xmax = 362.49600000000027 
+            text = "epenthesis9403seed345_01_ch354" 
+        intervals [355]:
+            xmin = 362.49600000000027 
+            xmax = 363.52000000000027 
+            text = "epenthesis9403seed345_01_ch355" 
+        intervals [356]:
+            xmin = 363.52000000000027 
+            xmax = 364.54400000000027 
+            text = "epenthesis9403seed345_01_ch356" 
+        intervals [357]:
+            xmin = 364.54400000000027 
+            xmax = 365.56800000000027 
+            text = "epenthesis9403seed345_01_ch357" 
+        intervals [358]:
+            xmin = 365.56800000000027 
+            xmax = 366.59200000000027 
+            text = "epenthesis9403seed345_01_ch358" 
+        intervals [359]:
+            xmin = 366.59200000000027 
+            xmax = 367.61600000000027 
+            text = "epenthesis9403seed345_01_ch359" 
+        intervals [360]:
+            xmin = 367.61600000000027 
+            xmax = 368.64000000000027 
+            text = "epenthesis9403seed345_01_ch360" 
+        intervals [361]:
+            xmin = 368.64000000000027 
+            xmax = 369.66400000000027 
+            text = "epenthesis9403seed345_01_ch361" 
+        intervals [362]:
+            xmin = 369.66400000000027 
+            xmax = 370.6880000000003 
+            text = "epenthesis9403seed345_01_ch362_p" 
+        intervals [363]:
+            xmin = 370.6880000000003 
+            xmax = 371.7120000000003 
+            text = "epenthesis9403seed345_01_ch363" 
+        intervals [364]:
+            xmin = 371.7120000000003 
+            xmax = 372.7360000000003 
+            text = "epenthesis9403seed345_01_ch364_p" 
+        intervals [365]:
+            xmin = 372.7360000000003 
+            xmax = 373.7600000000003 
+            text = "epenthesis9403seed345_01_ch365" 
+        intervals [366]:
+            xmin = 373.7600000000003 
+            xmax = 374.7840000000003 
+            text = "epenthesis9403seed345_01_ch366_t" 
+        intervals [367]:
+            xmin = 374.7840000000003 
+            xmax = 375.8080000000003 
+            text = "epenthesis9403seed345_01_ch367" 
+        intervals [368]:
+            xmin = 375.8080000000003 
+            xmax = 376.8320000000003 
+            text = "epenthesis9403seed345_01_ch368_p" 
+        intervals [369]:
+            xmin = 376.8320000000003 
+            xmax = 377.8560000000003 
+            text = "epenthesis9403seed345_01_ch369" 
+        intervals [370]:
+            xmin = 377.8560000000003 
+            xmax = 378.8800000000003 
+            text = "epenthesis9403seed345_01_ch370" 
+        intervals [371]:
+            xmin = 378.8800000000003 
+            xmax = 379.9040000000003 
+            text = "epenthesis9403seed345_01_ch371" 
+        intervals [372]:
+            xmin = 379.9040000000003 
+            xmax = 380.9280000000003 
+            text = "epenthesis9403seed345_01_ch372_p" 
+        intervals [373]:
+            xmin = 380.9280000000003 
+            xmax = 381.9520000000003 
+            text = "epenthesis9403seed345_01_ch373_t" 
+        intervals [374]:
+            xmin = 381.9520000000003 
+            xmax = 382.9760000000003 
+            text = "epenthesis9403seed345_01_ch374" 
+        intervals [375]:
+            xmin = 382.9760000000003 
+            xmax = 384.0000000000003 
+            text = "epenthesis9403seed345_01_ch375_p" 
+        intervals [376]:
+            xmin = 384.0000000000003 
+            xmax = 385.0240000000003 
+            text = "epenthesis9403seed345_01_ch376_p" 
+        intervals [377]:
+            xmin = 385.0240000000003 
+            xmax = 386.0480000000003 
+            text = "epenthesis9403seed345_01_ch377" 
+        intervals [378]:
+            xmin = 386.0480000000003 
+            xmax = 387.0720000000003 
+            text = "epenthesis9403seed345_01_ch378" 
+        intervals [379]:
+            xmin = 387.0720000000003 
+            xmax = 388.0960000000003 
+            text = "epenthesis9403seed345_01_ch379_t" 
+        intervals [380]:
+            xmin = 388.0960000000003 
+            xmax = 389.1200000000003 
+            text = "epenthesis9403seed345_01_ch380" 
+        intervals [381]:
+            xmin = 389.1200000000003 
+            xmax = 390.1440000000003 
+            text = "epenthesis9403seed345_01_ch381_t" 
+        intervals [382]:
+            xmin = 390.1440000000003 
+            xmax = 391.1680000000003 
+            text = "epenthesis9403seed345_01_ch382" 
+        intervals [383]:
+            xmin = 391.1680000000003 
+            xmax = 392.1920000000003 
+            text = "epenthesis9403seed345_01_ch383" 
+        intervals [384]:
+            xmin = 392.1920000000003 
+            xmax = 393.2160000000003 
+            text = "epenthesis9403seed345_01_ch384" 
+        intervals [385]:
+            xmin = 393.2160000000003 
+            xmax = 394.2400000000003 
+            text = "epenthesis9403seed345_01_ch385" 
+        intervals [386]:
+            xmin = 394.2400000000003 
+            xmax = 395.2640000000003 
+            text = "epenthesis9403seed345_01_ch386" 
+        intervals [387]:
+            xmin = 395.2640000000003 
+            xmax = 396.2880000000003 
+            text = "epenthesis9403seed345_01_ch387" 
+        intervals [388]:
+            xmin = 396.2880000000003 
+            xmax = 397.3120000000003 
+            text = "epenthesis9403seed345_01_ch388" 
+        intervals [389]:
+            xmin = 397.3120000000003 
+            xmax = 398.3360000000003 
+            text = "epenthesis9403seed345_01_ch389" 
+        intervals [390]:
+            xmin = 398.3360000000003 
+            xmax = 399.3600000000003 
+            text = "epenthesis9403seed345_01_ch390" 
+        intervals [391]:
+            xmin = 399.3600000000003 
+            xmax = 400.3840000000003 
+            text = "epenthesis9403seed345_01_ch391" 
+        intervals [392]:
+            xmin = 400.3840000000003 
+            xmax = 401.4080000000003 
+            text = "epenthesis9403seed345_01_ch392" 
+        intervals [393]:
+            xmin = 401.4080000000003 
+            xmax = 402.4320000000003 
+            text = "epenthesis9403seed345_01_ch393" 
+        intervals [394]:
+            xmin = 402.4320000000003 
+            xmax = 403.4560000000003 
+            text = "epenthesis9403seed345_01_ch394_p" 
+        intervals [395]:
+            xmin = 403.4560000000003 
+            xmax = 404.4800000000003 
+            text = "epenthesis9403seed345_01_ch395" 
+        intervals [396]:
+            xmin = 404.4800000000003 
+            xmax = 405.5040000000003 
+            text = "epenthesis9403seed345_01_ch396" 
+        intervals [397]:
+            xmin = 405.5040000000003 
+            xmax = 406.5280000000003 
+            text = "epenthesis9403seed345_01_ch397_p" 
+        intervals [398]:
+            xmin = 406.5280000000003 
+            xmax = 407.5520000000003 
+            text = "epenthesis9403seed345_01_ch398" 
+        intervals [399]:
+            xmin = 407.5520000000003 
+            xmax = 408.5760000000003 
+            text = "epenthesis9403seed345_01_ch399" 
+        intervals [400]:
+            xmin = 408.5760000000003 
+            xmax = 409.6000000000003 
+            text = "epenthesis9403seed345_01_ch400" 
+        intervals [401]:
+            xmin = 409.6000000000003 
+            xmax = 410.6240000000003 
+            text = "epenthesis9403seed345_01_ch401" 
+        intervals [402]:
+            xmin = 410.6240000000003 
+            xmax = 411.6480000000003 
+            text = "epenthesis9403seed345_01_ch402" 
+        intervals [403]:
+            xmin = 411.6480000000003 
+            xmax = 412.6720000000003 
+            text = "epenthesis9403seed345_01_ch403" 
+        intervals [404]:
+            xmin = 412.6720000000003 
+            xmax = 413.6960000000003 
+            text = "epenthesis9403seed345_01_ch404" 
+        intervals [405]:
+            xmin = 413.6960000000003 
+            xmax = 414.7200000000003 
+            text = "epenthesis9403seed345_01_ch405" 
+        intervals [406]:
+            xmin = 414.7200000000003 
+            xmax = 415.7440000000003 
+            text = "epenthesis9403seed345_01_ch406" 
+        intervals [407]:
+            xmin = 415.7440000000003 
+            xmax = 416.7680000000003 
+            text = "epenthesis9403seed345_01_ch407" 
+        intervals [408]:
+            xmin = 416.7680000000003 
+            xmax = 417.7920000000003 
+            text = "epenthesis9403seed345_01_ch408" 
+        intervals [409]:
+            xmin = 417.7920000000003 
+            xmax = 418.8160000000003 
+            text = "epenthesis9403seed345_01_ch409" 
+        intervals [410]:
+            xmin = 418.8160000000003 
+            xmax = 419.8400000000003 
+            text = "epenthesis9403seed345_01_ch410" 
+        intervals [411]:
+            xmin = 419.8400000000003 
+            xmax = 420.8640000000003 
+            text = "epenthesis9403seed345_01_ch411_p" 
+        intervals [412]:
+            xmin = 420.8640000000003 
+            xmax = 421.8880000000003 
+            text = "epenthesis9403seed345_01_ch412_Xishwashupa" 
+        intervals [413]:
+            xmin = 421.8880000000003 
+            xmax = 422.9120000000003 
+            text = "epenthesis9403seed345_01_ch413" 
+        intervals [414]:
+            xmin = 422.9120000000003 
+            xmax = 423.9360000000003 
+            text = "epenthesis9403seed345_01_ch414" 
+        intervals [415]:
+            xmin = 423.9360000000003 
+            xmax = 424.9600000000003 
+            text = "epenthesis9403seed345_01_ch415" 
+        intervals [416]:
+            xmin = 424.9600000000003 
+            xmax = 425.9840000000003 
+            text = "epenthesis9403seed345_01_ch416" 
+        intervals [417]:
+            xmin = 425.9840000000003 
+            xmax = 427.0080000000003 
+            text = "epenthesis9403seed345_01_ch417_p" 
+        intervals [418]:
+            xmin = 427.0080000000003 
+            xmax = 428.0320000000003 
+            text = "epenthesis9403seed345_01_ch418" 
+        intervals [419]:
+            xmin = 428.0320000000003 
+            xmax = 429.0560000000003 
+            text = "epenthesis9403seed345_01_ch419" 
+        intervals [420]:
+            xmin = 429.0560000000003 
+            xmax = 430.0800000000003 
+            text = "epenthesis9403seed345_01_ch420" 
+        intervals [421]:
+            xmin = 430.0800000000003 
+            xmax = 431.1040000000003 
+            text = "epenthesis9403seed345_01_ch421" 
+        intervals [422]:
+            xmin = 431.1040000000003 
+            xmax = 432.1280000000003 
+            text = "epenthesis9403seed345_01_ch422" 
+        intervals [423]:
+            xmin = 432.1280000000003 
+            xmax = 433.1520000000003 
+            text = "epenthesis9403seed345_01_ch423" 
+        intervals [424]:
+            xmin = 433.1520000000003 
+            xmax = 434.17600000000033 
+            text = "epenthesis9403seed345_01_ch424" 
+        intervals [425]:
+            xmin = 434.17600000000033 
+            xmax = 435.20000000000033 
+            text = "epenthesis9403seed345_01_ch425" 
+        intervals [426]:
+            xmin = 435.20000000000033 
+            xmax = 436.22400000000033 
+            text = "epenthesis9403seed345_01_ch426_Xiswashula" 
+        intervals [427]:
+            xmin = 436.22400000000033 
+            xmax = 437.24800000000033 
+            text = "epenthesis9403seed345_01_ch427" 
+        intervals [428]:
+            xmin = 437.24800000000033 
+            xmax = 438.27200000000033 
+            text = "epenthesis9403seed345_01_ch428" 
+        intervals [429]:
+            xmin = 438.27200000000033 
+            xmax = 439.29600000000033 
+            text = "epenthesis9403seed345_01_ch429" 
+        intervals [430]:
+            xmin = 439.29600000000033 
+            xmax = 440.32000000000033 
+            text = "epenthesis9403seed345_01_ch430" 
+        intervals [431]:
+            xmin = 440.32000000000033 
+            xmax = 441.34400000000034 
+            text = "epenthesis9403seed345_01_ch431" 
+        intervals [432]:
+            xmin = 441.34400000000034 
+            xmax = 442.36800000000034 
+            text = "epenthesis9403seed345_01_ch432" 
+        intervals [433]:
+            xmin = 442.36800000000034 
+            xmax = 443.39200000000034 
+            text = "epenthesis9403seed345_01_ch433" 
+        intervals [434]:
+            xmin = 443.39200000000034 
+            xmax = 444.41600000000034 
+            text = "epenthesis9403seed345_01_ch434" 
+        intervals [435]:
+            xmin = 444.41600000000034 
+            xmax = 445.44000000000034 
+            text = "epenthesis9403seed345_01_ch435" 
+        intervals [436]:
+            xmin = 445.44000000000034 
+            xmax = 446.46400000000034 
+            text = "epenthesis9403seed345_01_ch436" 
+        intervals [437]:
+            xmin = 446.46400000000034 
+            xmax = 447.48800000000034 
+            text = "epenthesis9403seed345_01_ch437" 
+        intervals [438]:
+            xmin = 447.48800000000034 
+            xmax = 448.51200000000034 
+            text = "epenthesis9403seed345_01_ch438" 
+        intervals [439]:
+            xmin = 448.51200000000034 
+            xmax = 449.53600000000034 
+            text = "epenthesis9403seed345_01_ch439" 
+        intervals [440]:
+            xmin = 449.53600000000034 
+            xmax = 450.56000000000034 
+            text = "epenthesis9403seed345_01_ch440" 
+        intervals [441]:
+            xmin = 450.56000000000034 
+            xmax = 451.58400000000034 
+            text = "epenthesis9403seed345_01_ch441" 
+        intervals [442]:
+            xmin = 451.58400000000034 
+            xmax = 452.60800000000035 
+            text = "epenthesis9403seed345_01_ch442_p" 
+        intervals [443]:
+            xmin = 452.60800000000035 
+            xmax = 453.63200000000035 
+            text = "epenthesis9403seed345_01_ch443_t" 
+        intervals [444]:
+            xmin = 453.63200000000035 
+            xmax = 454.65600000000035 
+            text = "epenthesis9403seed345_01_ch444" 
+        intervals [445]:
+            xmin = 454.65600000000035 
+            xmax = 455.68000000000035 
+            text = "epenthesis9403seed345_01_ch445" 
+        intervals [446]:
+            xmin = 455.68000000000035 
+            xmax = 456.70400000000035 
+            text = "epenthesis9403seed345_01_ch446" 
+        intervals [447]:
+            xmin = 456.70400000000035 
+            xmax = 457.72800000000035 
+            text = "epenthesis9403seed345_01_ch447_p" 
+        intervals [448]:
+            xmin = 457.72800000000035 
+            xmax = 458.75200000000035 
+            text = "epenthesis9403seed345_01_ch448" 
+        intervals [449]:
+            xmin = 458.75200000000035 
+            xmax = 459.77600000000035 
+            text = "epenthesis9403seed345_01_ch449_p" 
+        intervals [450]:
+            xmin = 459.77600000000035 
+            xmax = 460.80000000000035 
+            text = "epenthesis9403seed345_01_ch450" 
+        intervals [451]:
+            xmin = 460.80000000000035 
+            xmax = 461.82400000000035 
+            text = "epenthesis9403seed345_01_ch451" 
+        intervals [452]:
+            xmin = 461.82400000000035 
+            xmax = 462.84800000000035 
+            text = "epenthesis9403seed345_01_ch452" 
+        intervals [453]:
+            xmin = 462.84800000000035 
+            xmax = 463.87200000000036 
+            text = "epenthesis9403seed345_01_ch453" 
+        intervals [454]:
+            xmin = 463.87200000000036 
+            xmax = 464.89600000000036 
+            text = "epenthesis9403seed345_01_ch454_t" 
+        intervals [455]:
+            xmin = 464.89600000000036 
+            xmax = 465.92000000000036 
+            text = "epenthesis9403seed345_01_ch455" 
+        intervals [456]:
+            xmin = 465.92000000000036 
+            xmax = 466.94400000000036 
+            text = "epenthesis9403seed345_01_ch456" 
+        intervals [457]:
+            xmin = 466.94400000000036 
+            xmax = 467.96800000000036 
+            text = "epenthesis9403seed345_01_ch457" 
+        intervals [458]:
+            xmin = 467.96800000000036 
+            xmax = 468.99200000000036 
+            text = "epenthesis9403seed345_01_ch458" 
+        intervals [459]:
+            xmin = 468.99200000000036 
+            xmax = 470.01600000000036 
+            text = "epenthesis9403seed345_01_ch459" 
+        intervals [460]:
+            xmin = 470.01600000000036 
+            xmax = 471.04000000000036 
+            text = "epenthesis9403seed345_01_ch460" 
+        intervals [461]:
+            xmin = 471.04000000000036 
+            xmax = 472.06400000000036 
+            text = "epenthesis9403seed345_01_ch461_p" 
+        intervals [462]:
+            xmin = 472.06400000000036 
+            xmax = 473.08800000000036 
+            text = "epenthesis9403seed345_01_ch462" 
+        intervals [463]:
+            xmin = 473.08800000000036 
+            xmax = 474.11200000000036 
+            text = "epenthesis9403seed345_01_ch463" 
+        intervals [464]:
+            xmin = 474.11200000000036 
+            xmax = 475.13600000000037 
+            text = "epenthesis9403seed345_01_ch464" 
+        intervals [465]:
+            xmin = 475.13600000000037 
+            xmax = 476.16000000000037 
+            text = "epenthesis9403seed345_01_ch465" 
+        intervals [466]:
+            xmin = 476.16000000000037 
+            xmax = 477.18400000000037 
+            text = "epenthesis9403seed345_01_ch466" 
+        intervals [467]:
+            xmin = 477.18400000000037 
+            xmax = 478.20800000000037 
+            text = "epenthesis9403seed345_01_ch467_t" 
+        intervals [468]:
+            xmin = 478.20800000000037 
+            xmax = 479.23200000000037 
+            text = "epenthesis9403seed345_01_ch468" 
+        intervals [469]:
+            xmin = 479.23200000000037 
+            xmax = 480.25600000000037 
+            text = "epenthesis9403seed345_01_ch469" 
+        intervals [470]:
+            xmin = 480.25600000000037 
+            xmax = 481.28000000000037 
+            text = "epenthesis9403seed345_01_ch470_X" 
+        intervals [471]:
+            xmin = 481.28000000000037 
+            xmax = 482.30400000000037 
+            text = "epenthesis9403seed345_01_ch471_p" 
+        intervals [472]:
+            xmin = 482.30400000000037 
+            xmax = 483.3280000000004 
+            text = "epenthesis9403seed345_01_ch472" 
+        intervals [473]:
+            xmin = 483.3280000000004 
+            xmax = 484.3520000000004 
+            text = "epenthesis9403seed345_01_ch473" 
+        intervals [474]:
+            xmin = 484.3520000000004 
+            xmax = 485.3760000000004 
+            text = "epenthesis9403seed345_01_ch474_t" 
+        intervals [475]:
+            xmin = 485.3760000000004 
+            xmax = 486.4000000000004 
+            text = "epenthesis9403seed345_01_ch475" 
+        intervals [476]:
+            xmin = 486.4000000000004 
+            xmax = 487.4240000000004 
+            text = "epenthesis9403seed345_01_ch476" 
+        intervals [477]:
+            xmin = 487.4240000000004 
+            xmax = 488.4480000000004 
+            text = "epenthesis9403seed345_01_ch477" 
+        intervals [478]:
+            xmin = 488.4480000000004 
+            xmax = 489.4720000000004 
+            text = "epenthesis9403seed345_01_ch478" 
+        intervals [479]:
+            xmin = 489.4720000000004 
+            xmax = 490.4960000000004 
+            text = "epenthesis9403seed345_01_ch479_p" 
+        intervals [480]:
+            xmin = 490.4960000000004 
+            xmax = 491.5200000000004 
+            text = "epenthesis9403seed345_01_ch480" 
+        intervals [481]:
+            xmin = 491.5200000000004 
+            xmax = 492.5440000000004 
+            text = "epenthesis9403seed345_01_ch481" 
+        intervals [482]:
+            xmin = 492.5440000000004 
+            xmax = 493.5680000000004 
+            text = "epenthesis9403seed345_01_ch482" 
+        intervals [483]:
+            xmin = 493.5680000000004 
+            xmax = 494.5920000000004 
+            text = "epenthesis9403seed345_01_ch483" 
+        intervals [484]:
+            xmin = 494.5920000000004 
+            xmax = 495.6160000000004 
+            text = "epenthesis9403seed345_01_ch484" 
+        intervals [485]:
+            xmin = 495.6160000000004 
+            xmax = 496.6400000000004 
+            text = "epenthesis9403seed345_01_ch485_p" 
+        intervals [486]:
+            xmin = 496.6400000000004 
+            xmax = 497.6640000000004 
+            text = "epenthesis9403seed345_01_ch486" 
+        intervals [487]:
+            xmin = 497.6640000000004 
+            xmax = 498.6880000000004 
+            text = "epenthesis9403seed345_01_ch487_t" 
+        intervals [488]:
+            xmin = 498.6880000000004 
+            xmax = 499.7120000000004 
+            text = "epenthesis9403seed345_01_ch488" 
+        intervals [489]:
+            xmin = 499.7120000000004 
+            xmax = 500.7360000000004 
+            text = "epenthesis9403seed345_01_ch489" 
+        intervals [490]:
+            xmin = 500.7360000000004 
+            xmax = 501.7600000000004 
+            text = "epenthesis9403seed345_01_ch490" 
+        intervals [491]:
+            xmin = 501.7600000000004 
+            xmax = 502.7840000000004 
+            text = "epenthesis9403seed345_01_ch491" 
+        intervals [492]:
+            xmin = 502.7840000000004 
+            xmax = 503.8080000000004 
+            text = "epenthesis9403seed345_01_ch492" 
+        intervals [493]:
+            xmin = 503.8080000000004 
+            xmax = 504.8320000000004 
+            text = "epenthesis9403seed345_01_ch493" 
+        intervals [494]:
+            xmin = 504.8320000000004 
+            xmax = 505.8560000000004 
+            text = "epenthesis9403seed345_01_ch494" 
+        intervals [495]:
+            xmin = 505.8560000000004 
+            xmax = 506.8800000000004 
+            text = "epenthesis9403seed345_01_ch495" 
+        intervals [496]:
+            xmin = 506.8800000000004 
+            xmax = 507.9040000000004 
+            text = "epenthesis9403seed345_01_ch496" 
+        intervals [497]:
+            xmin = 507.9040000000004 
+            xmax = 508.9280000000004 
+            text = "epenthesis9403seed345_01_ch497" 
+        intervals [498]:
+            xmin = 508.9280000000004 
+            xmax = 509.9520000000004 
+            text = "epenthesis9403seed345_01_ch498_t" 
+        intervals [499]:
+            xmin = 509.9520000000004 
+            xmax = 510.9760000000004 
+            text = "epenthesis9403seed345_01_ch499_p" 
+        intervals [500]:
+            xmin = 510.9760000000004 
+            xmax = 512.0000000000003 
+            text = "epenthesis9403seed345_01_ch500" 
+        intervals [501]:
+            xmin = 512.0000000000003 
+            xmax = 513.0240000000003 
+            text = "epenthesis9403seed345_01_ch501" 
+        intervals [502]:
+            xmin = 513.0240000000003 
+            xmax = 514.0480000000003 
+            text = "epenthesis9403seed345_01_ch502" 
+        intervals [503]:
+            xmin = 514.0480000000003 
+            xmax = 515.0720000000003 
+            text = "epenthesis9403seed345_01_ch503" 
+        intervals [504]:
+            xmin = 515.0720000000003 
+            xmax = 516.0960000000003 
+            text = "epenthesis9403seed345_01_ch504" 
+        intervals [505]:
+            xmin = 516.0960000000003 
+            xmax = 517.1200000000003 
+            text = "epenthesis9403seed345_01_ch505" 
+        intervals [506]:
+            xmin = 517.1200000000003 
+            xmax = 518.1440000000003 
+            text = "epenthesis9403seed345_01_ch506" 
+        intervals [507]:
+            xmin = 518.1440000000003 
+            xmax = 519.1680000000003 
+            text = "epenthesis9403seed345_01_ch507" 
+        intervals [508]:
+            xmin = 519.1680000000003 
+            xmax = 520.1920000000003 
+            text = "epenthesis9403seed345_01_ch508" 
+        intervals [509]:
+            xmin = 520.1920000000003 
+            xmax = 521.2160000000003 
+            text = "epenthesis9403seed345_01_ch509_t" 
+        intervals [510]:
+            xmin = 521.2160000000003 
+            xmax = 522.2400000000004 
+            text = "epenthesis9403seed345_01_ch510_t" 
+        intervals [511]:
+            xmin = 522.2400000000004 
+            xmax = 523.2640000000004 
+            text = "epenthesis9403seed345_01_ch511" 
+        intervals [512]:
+            xmin = 523.2640000000004 
+            xmax = 524.2880000000004 
+            text = "epenthesis9403seed345_01_ch512" 
+        intervals [513]:
+            xmin = 524.2880000000004 
+            xmax = 525.3120000000004 
+            text = "epenthesis9403seed345_01_ch513" 
+        intervals [514]:
+            xmin = 525.3120000000004 
+            xmax = 526.3360000000004 
+            text = "epenthesis9403seed345_01_ch514_k" 
+        intervals [515]:
+            xmin = 526.3360000000004 
+            xmax = 527.3600000000004 
+            text = "epenthesis9403seed345_01_ch515" 
+        intervals [516]:
+            xmin = 527.3600000000004 
+            xmax = 528.3840000000004 
+            text = "epenthesis9403seed345_01_ch516" 
+        intervals [517]:
+            xmin = 528.3840000000004 
+            xmax = 529.4080000000004 
+            text = "epenthesis9403seed345_01_ch517" 
+        intervals [518]:
+            xmin = 529.4080000000004 
+            xmax = 530.4320000000004 
+            text = "epenthesis9403seed345_01_ch518" 
+        intervals [519]:
+            xmin = 530.4320000000004 
+            xmax = 531.4560000000004 
+            text = "epenthesis9403seed345_01_ch519_p" 
+        intervals [520]:
+            xmin = 531.4560000000004 
+            xmax = 532.4800000000004 
+            text = "epenthesis9403seed345_01_ch520" 
+        intervals [521]:
+            xmin = 532.4800000000004 
+            xmax = 533.5040000000004 
+            text = "epenthesis9403seed345_01_ch521_p" 
+        intervals [522]:
+            xmin = 533.5040000000004 
+            xmax = 534.5280000000004 
+            text = "epenthesis9403seed345_01_ch522" 
+        intervals [523]:
+            xmin = 534.5280000000004 
+            xmax = 535.5520000000004 
+            text = "epenthesis9403seed345_01_ch523" 
+        intervals [524]:
+            xmin = 535.5520000000004 
+            xmax = 536.5760000000004 
+            text = "epenthesis9403seed345_01_ch524" 
+        intervals [525]:
+            xmin = 536.5760000000004 
+            xmax = 537.6000000000004 
+            text = "epenthesis9403seed345_01_ch525" 
+        intervals [526]:
+            xmin = 537.6000000000004 
+            xmax = 538.6240000000004 
+            text = "epenthesis9403seed345_01_ch526_k" 
+        intervals [527]:
+            xmin = 538.6240000000004 
+            xmax = 539.6480000000004 
+            text = "epenthesis9403seed345_01_ch527" 
+        intervals [528]:
+            xmin = 539.6480000000004 
+            xmax = 540.6720000000004 
+            text = "epenthesis9403seed345_01_ch528" 
+        intervals [529]:
+            xmin = 540.6720000000004 
+            xmax = 541.6960000000004 
+            text = "epenthesis9403seed345_01_ch529" 
+        intervals [530]:
+            xmin = 541.6960000000004 
+            xmax = 542.7200000000004 
+            text = "epenthesis9403seed345_01_ch530_t" 
+        intervals [531]:
+            xmin = 542.7200000000004 
+            xmax = 543.7440000000004 
+            text = "epenthesis9403seed345_01_ch531" 
+        intervals [532]:
+            xmin = 543.7440000000004 
+            xmax = 544.7680000000004 
+            text = "epenthesis9403seed345_01_ch532" 
+        intervals [533]:
+            xmin = 544.7680000000004 
+            xmax = 545.7920000000004 
+            text = "epenthesis9403seed345_01_ch533_p" 
+        intervals [534]:
+            xmin = 545.7920000000004 
+            xmax = 546.8160000000004 
+            text = "epenthesis9403seed345_01_ch534_p" 
+        intervals [535]:
+            xmin = 546.8160000000004 
+            xmax = 547.8400000000004 
+            text = "epenthesis9403seed345_01_ch535" 
+        intervals [536]:
+            xmin = 547.8400000000004 
+            xmax = 548.8640000000004 
+            text = "epenthesis9403seed345_01_ch536" 
+        intervals [537]:
+            xmin = 548.8640000000004 
+            xmax = 549.8880000000004 
+            text = "epenthesis9403seed345_01_ch537_p" 
+        intervals [538]:
+            xmin = 549.8880000000004 
+            xmax = 550.9120000000004 
+            text = "epenthesis9403seed345_01_ch538" 
+        intervals [539]:
+            xmin = 550.9120000000004 
+            xmax = 551.9360000000004 
+            text = "epenthesis9403seed345_01_ch539_t" 
+        intervals [540]:
+            xmin = 551.9360000000004 
+            xmax = 552.9600000000004 
+            text = "epenthesis9403seed345_01_ch540" 
+        intervals [541]:
+            xmin = 552.9600000000004 
+            xmax = 553.9840000000004 
+            text = "epenthesis9403seed345_01_ch541" 
+        intervals [542]:
+            xmin = 553.9840000000004 
+            xmax = 555.0080000000004 
+            text = "epenthesis9403seed345_01_ch542" 
+        intervals [543]:
+            xmin = 555.0080000000004 
+            xmax = 556.0320000000004 
+            text = "epenthesis9403seed345_01_ch543" 
+        intervals [544]:
+            xmin = 556.0320000000004 
+            xmax = 557.0560000000004 
+            text = "epenthesis9403seed345_01_ch544" 
+        intervals [545]:
+            xmin = 557.0560000000004 
+            xmax = 558.0800000000004 
+            text = "epenthesis9403seed345_01_ch545" 
+        intervals [546]:
+            xmin = 558.0800000000004 
+            xmax = 559.1040000000004 
+            text = "epenthesis9403seed345_01_ch546" 
+        intervals [547]:
+            xmin = 559.1040000000004 
+            xmax = 560.1280000000004 
+            text = "epenthesis9403seed345_01_ch547" 
+        intervals [548]:
+            xmin = 560.1280000000004 
+            xmax = 561.1520000000004 
+            text = "epenthesis9403seed345_01_ch548" 
+        intervals [549]:
+            xmin = 561.1520000000004 
+            xmax = 562.1760000000004 
+            text = "epenthesis9403seed345_01_ch549_k" 
+        intervals [550]:
+            xmin = 562.1760000000004 
+            xmax = 563.2000000000004 
+            text = "epenthesis9403seed345_01_ch550" 
+        intervals [551]:
+            xmin = 563.2000000000004 
+            xmax = 564.2240000000004 
+            text = "epenthesis9403seed345_01_ch551" 
+        intervals [552]:
+            xmin = 564.2240000000004 
+            xmax = 565.2480000000004 
+            text = "epenthesis9403seed345_01_ch552_t" 
+        intervals [553]:
+            xmin = 565.2480000000004 
+            xmax = 566.2720000000004 
+            text = "epenthesis9403seed345_01_ch553_p" 
+        intervals [554]:
+            xmin = 566.2720000000004 
+            xmax = 567.2960000000004 
+            text = "epenthesis9403seed345_01_ch554_t" 
+        intervals [555]:
+            xmin = 567.2960000000004 
+            xmax = 568.3200000000004 
+            text = "epenthesis9403seed345_01_ch555" 
+        intervals [556]:
+            xmin = 568.3200000000004 
+            xmax = 569.3440000000004 
+            text = "epenthesis9403seed345_01_ch556" 
+        intervals [557]:
+            xmin = 569.3440000000004 
+            xmax = 570.3680000000004 
+            text = "epenthesis9403seed345_01_ch557" 
+        intervals [558]:
+            xmin = 570.3680000000004 
+            xmax = 571.3920000000004 
+            text = "epenthesis9403seed345_01_ch558" 
+        intervals [559]:
+            xmin = 571.3920000000004 
+            xmax = 572.4160000000004 
+            text = "epenthesis9403seed345_01_ch559" 
+        intervals [560]:
+            xmin = 572.4160000000004 
+            xmax = 573.4400000000004 
+            text = "epenthesis9403seed345_01_ch560" 
+        intervals [561]:
+            xmin = 573.4400000000004 
+            xmax = 574.4640000000004 
+            text = "epenthesis9403seed345_01_ch561" 
+        intervals [562]:
+            xmin = 574.4640000000004 
+            xmax = 575.4880000000004 
+            text = "epenthesis9403seed345_01_ch562" 
+        intervals [563]:
+            xmin = 575.4880000000004 
+            xmax = 576.5120000000004 
+            text = "epenthesis9403seed345_01_ch563" 
+        intervals [564]:
+            xmin = 576.5120000000004 
+            xmax = 577.5360000000004 
+            text = "epenthesis9403seed345_01_ch564" 
+        intervals [565]:
+            xmin = 577.5360000000004 
+            xmax = 578.5600000000004 
+            text = "epenthesis9403seed345_01_ch565" 
+        intervals [566]:
+            xmin = 578.5600000000004 
+            xmax = 579.5840000000004 
+            text = "epenthesis9403seed345_01_ch566" 
+        intervals [567]:
+            xmin = 579.5840000000004 
+            xmax = 580.6080000000004 
+            text = "epenthesis9403seed345_01_ch567_p" 
+        intervals [568]:
+            xmin = 580.6080000000004 
+            xmax = 581.6320000000004 
+            text = "epenthesis9403seed345_01_ch568" 
+        intervals [569]:
+            xmin = 581.6320000000004 
+            xmax = 582.6560000000004 
+            text = "epenthesis9403seed345_01_ch569" 
+        intervals [570]:
+            xmin = 582.6560000000004 
+            xmax = 583.6800000000004 
+            text = "epenthesis9403seed345_01_ch570_p" 
+        intervals [571]:
+            xmin = 583.6800000000004 
+            xmax = 584.7040000000004 
+            text = "epenthesis9403seed345_01_ch571_t" 
+        intervals [572]:
+            xmin = 584.7040000000004 
+            xmax = 585.7280000000004 
+            text = "epenthesis9403seed345_01_ch572" 
+        intervals [573]:
+            xmin = 585.7280000000004 
+            xmax = 586.7520000000004 
+            text = "epenthesis9403seed345_01_ch573" 
+        intervals [574]:
+            xmin = 586.7520000000004 
+            xmax = 587.7760000000004 
+            text = "epenthesis9403seed345_01_ch574" 
+        intervals [575]:
+            xmin = 587.7760000000004 
+            xmax = 588.8000000000004 
+            text = "epenthesis9403seed345_01_ch575_p" 
+        intervals [576]:
+            xmin = 588.8000000000004 
+            xmax = 589.8240000000004 
+            text = "epenthesis9403seed345_01_ch576" 
+        intervals [577]:
+            xmin = 589.8240000000004 
+            xmax = 590.8480000000004 
+            text = "epenthesis9403seed345_01_ch577" 
+        intervals [578]:
+            xmin = 590.8480000000004 
+            xmax = 591.8720000000004 
+            text = "epenthesis9403seed345_01_ch578" 
+        intervals [579]:
+            xmin = 591.8720000000004 
+            xmax = 592.8960000000004 
+            text = "epenthesis9403seed345_01_ch579" 
+        intervals [580]:
+            xmin = 592.8960000000004 
+            xmax = 593.9200000000004 
+            text = "epenthesis9403seed345_01_ch580" 
+        intervals [581]:
+            xmin = 593.9200000000004 
+            xmax = 594.9440000000004 
+            text = "epenthesis9403seed345_01_ch581_Xthuthuda" 
+        intervals [582]:
+            xmin = 594.9440000000004 
+            xmax = 595.9680000000004 
+            text = "epenthesis9403seed345_01_ch582" 
+        intervals [583]:
+            xmin = 595.9680000000004 
+            xmax = 596.9920000000004 
+            text = "epenthesis9403seed345_01_ch583" 
+        intervals [584]:
+            xmin = 596.9920000000004 
+            xmax = 598.0160000000004 
+            text = "epenthesis9403seed345_01_ch584" 
+        intervals [585]:
+            xmin = 598.0160000000004 
+            xmax = 599.0400000000004 
+            text = "epenthesis9403seed345_01_ch585_p" 
+        intervals [586]:
+            xmin = 599.0400000000004 
+            xmax = 600.0640000000004 
+            text = "epenthesis9403seed345_01_ch586" 
+        intervals [587]:
+            xmin = 600.0640000000004 
+            xmax = 601.0880000000004 
+            text = "epenthesis9403seed345_01_ch587" 
+        intervals [588]:
+            xmin = 601.0880000000004 
+            xmax = 602.1120000000004 
+            text = "epenthesis9403seed345_01_ch588" 
+        intervals [589]:
+            xmin = 602.1120000000004 
+            xmax = 603.1360000000004 
+            text = "epenthesis9403seed345_01_ch589" 
+        intervals [590]:
+            xmin = 603.1360000000004 
+            xmax = 604.1600000000004 
+            text = "epenthesis9403seed345_01_ch590" 
+        intervals [591]:
+            xmin = 604.1600000000004 
+            xmax = 605.1840000000004 
+            text = "epenthesis9403seed345_01_ch591" 
+        intervals [592]:
+            xmin = 605.1840000000004 
+            xmax = 606.2080000000004 
+            text = "epenthesis9403seed345_01_ch592" 
+        intervals [593]:
+            xmin = 606.2080000000004 
+            xmax = 607.2320000000004 
+            text = "epenthesis9403seed345_01_ch593" 
+        intervals [594]:
+            xmin = 607.2320000000004 
+            xmax = 608.2560000000004 
+            text = "epenthesis9403seed345_01_ch594" 
+        intervals [595]:
+            xmin = 608.2560000000004 
+            xmax = 609.2800000000004 
+            text = "epenthesis9403seed345_01_ch595" 
+        intervals [596]:
+            xmin = 609.2800000000004 
+            xmax = 610.3040000000004 
+            text = "epenthesis9403seed345_01_ch596" 
+        intervals [597]:
+            xmin = 610.3040000000004 
+            xmax = 611.3280000000004 
+            text = "epenthesis9403seed345_01_ch597_p" 
+        intervals [598]:
+            xmin = 611.3280000000004 
+            xmax = 612.3520000000004 
+            text = "epenthesis9403seed345_01_ch598" 
+        intervals [599]:
+            xmin = 612.3520000000004 
+            xmax = 613.3760000000004 
+            text = "epenthesis9403seed345_01_ch599" 
+        intervals [600]:
+            xmin = 613.3760000000004 
+            xmax = 614.4000000000004 
+            text = "epenthesis9403seed345_01_ch600" 
+        intervals [601]:
+            xmin = 614.4000000000004 
+            xmax = 615.4240000000004 
+            text = "epenthesis9403seed345_01_ch601" 
+        intervals [602]:
+            xmin = 615.4240000000004 
+            xmax = 616.4480000000004 
+            text = "epenthesis9403seed345_01_ch602" 
+        intervals [603]:
+            xmin = 616.4480000000004 
+            xmax = 617.4720000000004 
+            text = "epenthesis9403seed345_01_ch603" 
+        intervals [604]:
+            xmin = 617.4720000000004 
+            xmax = 618.4960000000004 
+            text = "epenthesis9403seed345_01_ch604" 
+        intervals [605]:
+            xmin = 618.4960000000004 
+            xmax = 619.5200000000004 
+            text = "epenthesis9403seed345_01_ch605" 
+        intervals [606]:
+            xmin = 619.5200000000004 
+            xmax = 620.5440000000004 
+            text = "epenthesis9403seed345_01_ch606" 
+        intervals [607]:
+            xmin = 620.5440000000004 
+            xmax = 621.5680000000004 
+            text = "epenthesis9403seed345_01_ch607" 
+        intervals [608]:
+            xmin = 621.5680000000004 
+            xmax = 622.5920000000004 
+            text = "epenthesis9403seed345_01_ch608" 
+        intervals [609]:
+            xmin = 622.5920000000004 
+            xmax = 623.6160000000004 
+            text = "epenthesis9403seed345_01_ch609" 
+        intervals [610]:
+            xmin = 623.6160000000004 
+            xmax = 624.6400000000004 
+            text = "epenthesis9403seed345_01_ch610" 
+        intervals [611]:
+            xmin = 624.6400000000004 
+            xmax = 625.6640000000004 
+            text = "epenthesis9403seed345_01_ch611" 
+        intervals [612]:
+            xmin = 625.6640000000004 
+            xmax = 626.6880000000004 
+            text = "epenthesis9403seed345_01_ch612" 
+        intervals [613]:
+            xmin = 626.6880000000004 
+            xmax = 627.7120000000004 
+            text = "epenthesis9403seed345_01_ch613" 
+        intervals [614]:
+            xmin = 627.7120000000004 
+            xmax = 628.7360000000004 
+            text = "epenthesis9403seed345_01_ch614" 
+        intervals [615]:
+            xmin = 628.7360000000004 
+            xmax = 629.7600000000004 
+            text = "epenthesis9403seed345_01_ch615_t" 
+        intervals [616]:
+            xmin = 629.7600000000004 
+            xmax = 630.7840000000004 
+            text = "epenthesis9403seed345_01_ch616" 
+        intervals [617]:
+            xmin = 630.7840000000004 
+            xmax = 631.8080000000004 
+            text = "epenthesis9403seed345_01_ch617" 
+        intervals [618]:
+            xmin = 631.8080000000004 
+            xmax = 632.8320000000004 
+            text = "epenthesis9403seed345_01_ch618" 
+        intervals [619]:
+            xmin = 632.8320000000004 
+            xmax = 633.8560000000004 
+            text = "epenthesis9403seed345_01_ch619" 
+        intervals [620]:
+            xmin = 633.8560000000004 
+            xmax = 634.8800000000005 
+            text = "epenthesis9403seed345_01_ch620" 
+        intervals [621]:
+            xmin = 634.8800000000005 
+            xmax = 635.9040000000005 
+            text = "epenthesis9403seed345_01_ch621_X" 
+        intervals [622]:
+            xmin = 635.9040000000005 
+            xmax = 636.9280000000005 
+            text = "epenthesis9403seed345_01_ch622_t" 
+        intervals [623]:
+            xmin = 636.9280000000005 
+            xmax = 637.9520000000005 
+            text = "epenthesis9403seed345_01_ch623_p" 
+        intervals [624]:
+            xmin = 637.9520000000005 
+            xmax = 638.9760000000005 
+            text = "epenthesis9403seed345_01_ch624" 
+        intervals [625]:
+            xmin = 638.9760000000005 
+            xmax = 640.0000000000005 
+            text = "epenthesis9403seed345_01_ch625_t" 
+        intervals [626]:
+            xmin = 640.0000000000005 
+            xmax = 641.0240000000005 
+            text = "epenthesis9403seed345_01_ch626" 
+        intervals [627]:
+            xmin = 641.0240000000005 
+            xmax = 642.0480000000005 
+            text = "epenthesis9403seed345_01_ch627_p" 
+        intervals [628]:
+            xmin = 642.0480000000005 
+            xmax = 643.0720000000005 
+            text = "epenthesis9403seed345_01_ch628_t" 
+        intervals [629]:
+            xmin = 643.0720000000005 
+            xmax = 644.0960000000005 
+            text = "epenthesis9403seed345_01_ch629" 
+        intervals [630]:
+            xmin = 644.0960000000005 
+            xmax = 645.1200000000005 
+            text = "epenthesis9403seed345_01_ch630_p" 
+        intervals [631]:
+            xmin = 645.1200000000005 
+            xmax = 646.1440000000005 
+            text = "epenthesis9403seed345_01_ch631_p" 
+        intervals [632]:
+            xmin = 646.1440000000005 
+            xmax = 647.1680000000005 
+            text = "epenthesis9403seed345_01_ch632_Xd" 
+        intervals [633]:
+            xmin = 647.1680000000005 
+            xmax = 648.1920000000005 
+            text = "epenthesis9403seed345_01_ch633" 
+        intervals [634]:
+            xmin = 648.1920000000005 
+            xmax = 649.2160000000005 
+            text = "epenthesis9403seed345_01_ch634_p" 
+        intervals [635]:
+            xmin = 649.2160000000005 
+            xmax = 650.2400000000005 
+            text = "epenthesis9403seed345_01_ch635" 
+        intervals [636]:
+            xmin = 650.2400000000005 
+            xmax = 651.2640000000005 
+            text = "epenthesis9403seed345_01_ch636" 
+        intervals [637]:
+            xmin = 651.2640000000005 
+            xmax = 652.2880000000005 
+            text = "epenthesis9403seed345_01_ch637_p" 
+        intervals [638]:
+            xmin = 652.2880000000005 
+            xmax = 653.3120000000005 
+            text = "epenthesis9403seed345_01_ch638" 
+        intervals [639]:
+            xmin = 653.3120000000005 
+            xmax = 654.3360000000005 
+            text = "epenthesis9403seed345_01_ch639" 
+        intervals [640]:
+            xmin = 654.3360000000005 
+            xmax = 655.3600000000005 
+            text = "epenthesis9403seed345_01_ch640" 
+        intervals [641]:
+            xmin = 655.3600000000005 
+            xmax = 656.3840000000005 
+            text = "epenthesis9403seed345_01_ch641" 
+        intervals [642]:
+            xmin = 656.3840000000005 
+            xmax = 657.4080000000005 
+            text = "epenthesis9403seed345_01_ch642" 
+        intervals [643]:
+            xmin = 657.4080000000005 
+            xmax = 658.4320000000005 
+            text = "epenthesis9403seed345_01_ch643" 
+        intervals [644]:
+            xmin = 658.4320000000005 
+            xmax = 659.4560000000005 
+            text = "epenthesis9403seed345_01_ch644_p" 
+        intervals [645]:
+            xmin = 659.4560000000005 
+            xmax = 660.4800000000005 
+            text = "epenthesis9403seed345_01_ch645_t" 
+        intervals [646]:
+            xmin = 660.4800000000005 
+            xmax = 661.5040000000005 
+            text = "epenthesis9403seed345_01_ch646" 
+        intervals [647]:
+            xmin = 661.5040000000005 
+            xmax = 662.5280000000005 
+            text = "epenthesis9403seed345_01_ch647_p" 
+        intervals [648]:
+            xmin = 662.5280000000005 
+            xmax = 663.5520000000005 
+            text = "epenthesis9403seed345_01_ch648" 
+        intervals [649]:
+            xmin = 663.5520000000005 
+            xmax = 664.5760000000005 
+            text = "epenthesis9403seed345_01_ch649" 
+        intervals [650]:
+            xmin = 664.5760000000005 
+            xmax = 665.6000000000005 
+            text = "epenthesis9403seed345_01_ch650" 
+        intervals [651]:
+            xmin = 665.6000000000005 
+            xmax = 666.6240000000005 
+            text = "epenthesis9403seed345_01_ch651" 
+        intervals [652]:
+            xmin = 666.6240000000005 
+            xmax = 667.6480000000005 
+            text = "epenthesis9403seed345_01_ch652" 
+        intervals [653]:
+            xmin = 667.6480000000005 
+            xmax = 668.6720000000005 
+            text = "epenthesis9403seed345_01_ch653" 
+        intervals [654]:
+            xmin = 668.6720000000005 
+            xmax = 669.6960000000005 
+            text = "epenthesis9403seed345_01_ch654_p" 
+        intervals [655]:
+            xmin = 669.6960000000005 
+            xmax = 670.7200000000005 
+            text = "epenthesis9403seed345_01_ch655" 
+        intervals [656]:
+            xmin = 670.7200000000005 
+            xmax = 671.7440000000005 
+            text = "epenthesis9403seed345_01_ch656" 
+        intervals [657]:
+            xmin = 671.7440000000005 
+            xmax = 672.7680000000005 
+            text = "epenthesis9403seed345_01_ch657" 
+        intervals [658]:
+            xmin = 672.7680000000005 
+            xmax = 673.7920000000005 
+            text = "epenthesis9403seed345_01_ch658" 
+        intervals [659]:
+            xmin = 673.7920000000005 
+            xmax = 674.8160000000005 
+            text = "epenthesis9403seed345_01_ch659_p" 
+        intervals [660]:
+            xmin = 674.8160000000005 
+            xmax = 675.8400000000005 
+            text = "epenthesis9403seed345_01_ch660" 
+        intervals [661]:
+            xmin = 675.8400000000005 
+            xmax = 676.8640000000005 
+            text = "epenthesis9403seed345_01_ch661" 
+        intervals [662]:
+            xmin = 676.8640000000005 
+            xmax = 677.8880000000005 
+            text = "epenthesis9403seed345_01_ch662" 
+        intervals [663]:
+            xmin = 677.8880000000005 
+            xmax = 678.9120000000005 
+            text = "epenthesis9403seed345_01_ch663" 
+        intervals [664]:
+            xmin = 678.9120000000005 
+            xmax = 679.9360000000005 
+            text = "epenthesis9403seed345_01_ch664" 
+        intervals [665]:
+            xmin = 679.9360000000005 
+            xmax = 680.9600000000005 
+            text = "epenthesis9403seed345_01_ch665" 
+        intervals [666]:
+            xmin = 680.9600000000005 
+            xmax = 681.9840000000005 
+            text = "epenthesis9403seed345_01_ch666_p" 
+        intervals [667]:
+            xmin = 681.9840000000005 
+            xmax = 683.0080000000005 
+            text = "epenthesis9403seed345_01_ch667" 
+        intervals [668]:
+            xmin = 683.0080000000005 
+            xmax = 684.0320000000005 
+            text = "epenthesis9403seed345_01_ch668" 
+        intervals [669]:
+            xmin = 684.0320000000005 
+            xmax = 685.0560000000005 
+            text = "epenthesis9403seed345_01_ch669" 
+        intervals [670]:
+            xmin = 685.0560000000005 
+            xmax = 686.0800000000005 
+            text = "epenthesis9403seed345_01_ch670" 
+        intervals [671]:
+            xmin = 686.0800000000005 
+            xmax = 687.1040000000005 
+            text = "epenthesis9403seed345_01_ch671" 
+        intervals [672]:
+            xmin = 687.1040000000005 
+            xmax = 688.1280000000005 
+            text = "epenthesis9403seed345_01_ch672_t" 
+        intervals [673]:
+            xmin = 688.1280000000005 
+            xmax = 689.1520000000005 
+            text = "epenthesis9403seed345_01_ch673" 
+        intervals [674]:
+            xmin = 689.1520000000005 
+            xmax = 690.1760000000005 
+            text = "epenthesis9403seed345_01_ch674" 
+        intervals [675]:
+            xmin = 690.1760000000005 
+            xmax = 691.2000000000005 
+            text = "epenthesis9403seed345_01_ch675" 
+        intervals [676]:
+            xmin = 691.2000000000005 
+            xmax = 692.2240000000005 
+            text = "epenthesis9403seed345_01_ch676" 
+        intervals [677]:
+            xmin = 692.2240000000005 
+            xmax = 693.2480000000005 
+            text = "epenthesis9403seed345_01_ch677_k_Xkefufitha" 
+        intervals [678]:
+            xmin = 693.2480000000005 
+            xmax = 694.2720000000005 
+            text = "epenthesis9403seed345_01_ch678" 
+        intervals [679]:
+            xmin = 694.2720000000005 
+            xmax = 695.2960000000005 
+            text = "epenthesis9403seed345_01_ch679" 
+        intervals [680]:
+            xmin = 695.2960000000005 
+            xmax = 696.3200000000005 
+            text = "epenthesis9403seed345_01_ch680" 
+        intervals [681]:
+            xmin = 696.3200000000005 
+            xmax = 697.3440000000005 
+            text = "epenthesis9403seed345_01_ch681" 
+        intervals [682]:
+            xmin = 697.3440000000005 
+            xmax = 698.3680000000005 
+            text = "epenthesis9403seed345_01_ch682" 
+        intervals [683]:
+            xmin = 698.3680000000005 
+            xmax = 699.3920000000005 
+            text = "epenthesis9403seed345_01_ch683" 
+        intervals [684]:
+            xmin = 699.3920000000005 
+            xmax = 700.4160000000005 
+            text = "epenthesis9403seed345_01_ch684" 
+        intervals [685]:
+            xmin = 700.4160000000005 
+            xmax = 701.4400000000005 
+            text = "epenthesis9403seed345_01_ch685" 
+        intervals [686]:
+            xmin = 701.4400000000005 
+            xmax = 702.4640000000005 
+            text = "epenthesis9403seed345_01_ch686" 
+        intervals [687]:
+            xmin = 702.4640000000005 
+            xmax = 703.4880000000005 
+            text = "epenthesis9403seed345_01_ch687" 
+        intervals [688]:
+            xmin = 703.4880000000005 
+            xmax = 704.5120000000005 
+            text = "epenthesis9403seed345_01_ch688_p" 
+        intervals [689]:
+            xmin = 704.5120000000005 
+            xmax = 705.5360000000005 
+            text = "epenthesis9403seed345_01_ch689" 
+        intervals [690]:
+            xmin = 705.5360000000005 
+            xmax = 706.5600000000005 
+            text = "epenthesis9403seed345_01_ch690_t" 
+        intervals [691]:
+            xmin = 706.5600000000005 
+            xmax = 707.5840000000005 
+            text = "epenthesis9403seed345_01_ch691" 
+        intervals [692]:
+            xmin = 707.5840000000005 
+            xmax = 708.6080000000005 
+            text = "epenthesis9403seed345_01_ch692_k" 
+        intervals [693]:
+            xmin = 708.6080000000005 
+            xmax = 709.6320000000005 
+            text = "epenthesis9403seed345_01_ch693_p" 
+        intervals [694]:
+            xmin = 709.6320000000005 
+            xmax = 710.6560000000005 
+            text = "epenthesis9403seed345_01_ch694" 
+        intervals [695]:
+            xmin = 710.6560000000005 
+            xmax = 711.6800000000005 
+            text = "epenthesis9403seed345_01_ch695_t" 
+        intervals [696]:
+            xmin = 711.6800000000005 
+            xmax = 712.7040000000005 
+            text = "epenthesis9403seed345_01_ch696" 
+        intervals [697]:
+            xmin = 712.7040000000005 
+            xmax = 713.7280000000005 
+            text = "epenthesis9403seed345_01_ch697_p" 
+        intervals [698]:
+            xmin = 713.7280000000005 
+            xmax = 714.7520000000005 
+            text = "epenthesis9403seed345_01_ch698_t" 
+        intervals [699]:
+            xmin = 714.7520000000005 
+            xmax = 715.7760000000005 
+            text = "epenthesis9403seed345_01_ch699" 
+        intervals [700]:
+            xmin = 715.7760000000005 
+            xmax = 716.8000000000005 
+            text = "epenthesis9403seed345_01_ch700" 
+        intervals [701]:
+            xmin = 716.8000000000005 
+            xmax = 717.8240000000005 
+            text = "epenthesis9403seed345_01_ch701_p" 
+        intervals [702]:
+            xmin = 717.8240000000005 
+            xmax = 718.8480000000005 
+            text = "epenthesis9403seed345_01_ch702" 
+        intervals [703]:
+            xmin = 718.8480000000005 
+            xmax = 719.8720000000005 
+            text = "epenthesis9403seed345_01_ch703_t" 
+        intervals [704]:
+            xmin = 719.8720000000005 
+            xmax = 720.8960000000005 
+            text = "epenthesis9403seed345_01_ch704_t" 
+        intervals [705]:
+            xmin = 720.8960000000005 
+            xmax = 721.9200000000005 
+            text = "epenthesis9403seed345_01_ch705" 
+        intervals [706]:
+            xmin = 721.9200000000005 
+            xmax = 722.9440000000005 
+            text = "epenthesis9403seed345_01_ch706" 
+        intervals [707]:
+            xmin = 722.9440000000005 
+            xmax = 723.9680000000005 
+            text = "epenthesis9403seed345_01_ch707" 
+        intervals [708]:
+            xmin = 723.9680000000005 
+            xmax = 724.9920000000005 
+            text = "epenthesis9403seed345_01_ch708" 
+        intervals [709]:
+            xmin = 724.9920000000005 
+            xmax = 726.0160000000005 
+            text = "epenthesis9403seed345_01_ch709" 
+        intervals [710]:
+            xmin = 726.0160000000005 
+            xmax = 727.0400000000005 
+            text = "epenthesis9403seed345_01_ch710" 
+        intervals [711]:
+            xmin = 727.0400000000005 
+            xmax = 728.0640000000005 
+            text = "epenthesis9403seed345_01_ch711" 
+        intervals [712]:
+            xmin = 728.0640000000005 
+            xmax = 729.0880000000005 
+            text = "epenthesis9403seed345_01_ch712" 
+        intervals [713]:
+            xmin = 729.0880000000005 
+            xmax = 730.1120000000005 
+            text = "epenthesis9403seed345_01_ch713" 
+        intervals [714]:
+            xmin = 730.1120000000005 
+            xmax = 731.1360000000005 
+            text = "epenthesis9403seed345_01_ch714" 
+        intervals [715]:
+            xmin = 731.1360000000005 
+            xmax = 732.1600000000005 
+            text = "epenthesis9403seed345_01_ch715_t" 
+        intervals [716]:
+            xmin = 732.1600000000005 
+            xmax = 733.1840000000005 
+            text = "epenthesis9403seed345_01_ch716" 
+        intervals [717]:
+            xmin = 733.1840000000005 
+            xmax = 734.2080000000005 
+            text = "epenthesis9403seed345_01_ch717" 
+        intervals [718]:
+            xmin = 734.2080000000005 
+            xmax = 735.2320000000005 
+            text = "epenthesis9403seed345_01_ch718_p" 
+        intervals [719]:
+            xmin = 735.2320000000005 
+            xmax = 736.2560000000005 
+            text = "epenthesis9403seed345_01_ch719" 
+        intervals [720]:
+            xmin = 736.2560000000005 
+            xmax = 737.2800000000005 
+            text = "epenthesis9403seed345_01_ch720_p" 
+        intervals [721]:
+            xmin = 737.2800000000005 
+            xmax = 738.3040000000005 
+            text = "epenthesis9403seed345_01_ch721" 
+        intervals [722]:
+            xmin = 738.3040000000005 
+            xmax = 739.3280000000005 
+            text = "epenthesis9403seed345_01_ch722" 
+        intervals [723]:
+            xmin = 739.3280000000005 
+            xmax = 740.3520000000005 
+            text = "epenthesis9403seed345_01_ch723" 
+        intervals [724]:
+            xmin = 740.3520000000005 
+            xmax = 741.3760000000005 
+            text = "epenthesis9403seed345_01_ch724" 
+        intervals [725]:
+            xmin = 741.3760000000005 
+            xmax = 742.4000000000005 
+            text = "epenthesis9403seed345_01_ch725" 
+        intervals [726]:
+            xmin = 742.4000000000005 
+            xmax = 743.4240000000005 
+            text = "epenthesis9403seed345_01_ch726" 
+        intervals [727]:
+            xmin = 743.4240000000005 
+            xmax = 744.4480000000005 
+            text = "epenthesis9403seed345_01_ch727" 
+        intervals [728]:
+            xmin = 744.4480000000005 
+            xmax = 745.4720000000005 
+            text = "epenthesis9403seed345_01_ch728" 
+        intervals [729]:
+            xmin = 745.4720000000005 
+            xmax = 746.4960000000005 
+            text = "epenthesis9403seed345_01_ch729" 
+        intervals [730]:
+            xmin = 746.4960000000005 
+            xmax = 747.5200000000006 
+            text = "epenthesis9403seed345_01_ch730" 
+        intervals [731]:
+            xmin = 747.5200000000006 
+            xmax = 748.5440000000006 
+            text = "epenthesis9403seed345_01_ch731" 
+        intervals [732]:
+            xmin = 748.5440000000006 
+            xmax = 749.5680000000006 
+            text = "epenthesis9403seed345_01_ch732" 
+        intervals [733]:
+            xmin = 749.5680000000006 
+            xmax = 750.5920000000006 
+            text = "epenthesis9403seed345_01_ch733" 
+        intervals [734]:
+            xmin = 750.5920000000006 
+            xmax = 751.6160000000006 
+            text = "epenthesis9403seed345_01_ch734" 
+        intervals [735]:
+            xmin = 751.6160000000006 
+            xmax = 752.6400000000006 
+            text = "epenthesis9403seed345_01_ch735" 
+        intervals [736]:
+            xmin = 752.6400000000006 
+            xmax = 753.6640000000006 
+            text = "epenthesis9403seed345_01_ch736" 
+        intervals [737]:
+            xmin = 753.6640000000006 
+            xmax = 754.6880000000006 
+            text = "epenthesis9403seed345_01_ch737" 
+        intervals [738]:
+            xmin = 754.6880000000006 
+            xmax = 755.7120000000006 
+            text = "epenthesis9403seed345_01_ch738" 
+        intervals [739]:
+            xmin = 755.7120000000006 
+            xmax = 756.7360000000006 
+            text = "epenthesis9403seed345_01_ch739" 
+        intervals [740]:
+            xmin = 756.7360000000006 
+            xmax = 757.7600000000006 
+            text = "epenthesis9403seed345_01_ch740" 
+        intervals [741]:
+            xmin = 757.7600000000006 
+            xmax = 758.7840000000006 
+            text = "epenthesis9403seed345_01_ch741" 
+        intervals [742]:
+            xmin = 758.7840000000006 
+            xmax = 759.8080000000006 
+            text = "epenthesis9403seed345_01_ch742_p" 
+        intervals [743]:
+            xmin = 759.8080000000006 
+            xmax = 760.8320000000006 
+            text = "epenthesis9403seed345_01_ch743_p" 
+        intervals [744]:
+            xmin = 760.8320000000006 
+            xmax = 761.8560000000006 
+            text = "epenthesis9403seed345_01_ch744_t" 
+        intervals [745]:
+            xmin = 761.8560000000006 
+            xmax = 762.8800000000006 
+            text = "epenthesis9403seed345_01_ch745" 
+        intervals [746]:
+            xmin = 762.8800000000006 
+            xmax = 763.9040000000006 
+            text = "epenthesis9403seed345_01_ch746" 
+        intervals [747]:
+            xmin = 763.9040000000006 
+            xmax = 764.9280000000006 
+            text = "epenthesis9403seed345_01_ch747" 
+        intervals [748]:
+            xmin = 764.9280000000006 
+            xmax = 765.9520000000006 
+            text = "epenthesis9403seed345_01_ch748_p" 
+        intervals [749]:
+            xmin = 765.9520000000006 
+            xmax = 766.9760000000006 
+            text = "epenthesis9403seed345_01_ch749" 
+        intervals [750]:
+            xmin = 766.9760000000006 
+            xmax = 768.0000000000006 
+            text = "epenthesis9403seed345_01_ch750" 
+        intervals [751]:
+            xmin = 768.0000000000006 
+            xmax = 769.0240000000006 
+            text = "epenthesis9403seed345_01_ch751" 
+        intervals [752]:
+            xmin = 769.0240000000006 
+            xmax = 770.0480000000006 
+            text = "epenthesis9403seed345_01_ch752" 
+        intervals [753]:
+            xmin = 770.0480000000006 
+            xmax = 771.0720000000006 
+            text = "epenthesis9403seed345_01_ch753" 
+        intervals [754]:
+            xmin = 771.0720000000006 
+            xmax = 772.0960000000006 
+            text = "epenthesis9403seed345_01_ch754" 
+        intervals [755]:
+            xmin = 772.0960000000006 
+            xmax = 773.1200000000006 
+            text = "epenthesis9403seed345_01_ch755_p" 
+        intervals [756]:
+            xmin = 773.1200000000006 
+            xmax = 774.1440000000006 
+            text = "epenthesis9403seed345_01_ch756" 
+        intervals [757]:
+            xmin = 774.1440000000006 
+            xmax = 775.1680000000006 
+            text = "epenthesis9403seed345_01_ch757_t" 
+        intervals [758]:
+            xmin = 775.1680000000006 
+            xmax = 776.1920000000006 
+            text = "epenthesis9403seed345_01_ch758" 
+        intervals [759]:
+            xmin = 776.1920000000006 
+            xmax = 777.2160000000006 
+            text = "epenthesis9403seed345_01_ch759" 
+        intervals [760]:
+            xmin = 777.2160000000006 
+            xmax = 778.2400000000006 
+            text = "epenthesis9403seed345_01_ch760" 
+        intervals [761]:
+            xmin = 778.2400000000006 
+            xmax = 779.2640000000006 
+            text = "epenthesis9403seed345_01_ch761" 
+        intervals [762]:
+            xmin = 779.2640000000006 
+            xmax = 780.2880000000006 
+            text = "epenthesis9403seed345_01_ch762" 
+        intervals [763]:
+            xmin = 780.2880000000006 
+            xmax = 781.3120000000006 
+            text = "epenthesis9403seed345_01_ch763" 
+        intervals [764]:
+            xmin = 781.3120000000006 
+            xmax = 782.3360000000006 
+            text = "epenthesis9403seed345_01_ch764" 
+        intervals [765]:
+            xmin = 782.3360000000006 
+            xmax = 783.3600000000006 
+            text = "epenthesis9403seed345_01_ch765_t" 
+        intervals [766]:
+            xmin = 783.3600000000006 
+            xmax = 784.3840000000006 
+            text = "epenthesis9403seed345_01_ch766_p" 
+        intervals [767]:
+            xmin = 784.3840000000006 
+            xmax = 785.4080000000006 
+            text = "epenthesis9403seed345_01_ch767" 
+        intervals [768]:
+            xmin = 785.4080000000006 
+            xmax = 786.4320000000006 
+            text = "epenthesis9403seed345_01_ch768" 
+        intervals [769]:
+            xmin = 786.4320000000006 
+            xmax = 787.4560000000006 
+            text = "epenthesis9403seed345_01_ch769" 
+        intervals [770]:
+            xmin = 787.4560000000006 
+            xmax = 788.4800000000006 
+            text = "epenthesis9403seed345_01_ch770" 
+        intervals [771]:
+            xmin = 788.4800000000006 
+            xmax = 789.5040000000006 
+            text = "epenthesis9403seed345_01_ch771" 
+        intervals [772]:
+            xmin = 789.5040000000006 
+            xmax = 790.5280000000006 
+            text = "epenthesis9403seed345_01_ch772" 
+        intervals [773]:
+            xmin = 790.5280000000006 
+            xmax = 791.5520000000006 
+            text = "epenthesis9403seed345_01_ch773" 
+        intervals [774]:
+            xmin = 791.5520000000006 
+            xmax = 792.5760000000006 
+            text = "epenthesis9403seed345_01_ch774" 
+        intervals [775]:
+            xmin = 792.5760000000006 
+            xmax = 793.6000000000006 
+            text = "epenthesis9403seed345_01_ch775" 
+        intervals [776]:
+            xmin = 793.6000000000006 
+            xmax = 794.6240000000006 
+            text = "epenthesis9403seed345_01_ch776" 
+        intervals [777]:
+            xmin = 794.6240000000006 
+            xmax = 795.6480000000006 
+            text = "epenthesis9403seed345_01_ch777" 
+        intervals [778]:
+            xmin = 795.6480000000006 
+            xmax = 796.6720000000006 
+            text = "epenthesis9403seed345_01_ch778" 
+        intervals [779]:
+            xmin = 796.6720000000006 
+            xmax = 797.6960000000006 
+            text = "epenthesis9403seed345_01_ch779_p" 
+        intervals [780]:
+            xmin = 797.6960000000006 
+            xmax = 798.7200000000006 
+            text = "epenthesis9403seed345_01_ch780" 
+        intervals [781]:
+            xmin = 798.7200000000006 
+            xmax = 799.7440000000006 
+            text = "epenthesis9403seed345_01_ch781_k" 
+        intervals [782]:
+            xmin = 799.7440000000006 
+            xmax = 800.7680000000006 
+            text = "epenthesis9403seed345_01_ch782_k" 
+        intervals [783]:
+            xmin = 800.7680000000006 
+            xmax = 801.7920000000006 
+            text = "epenthesis9403seed345_01_ch783" 
+        intervals [784]:
+            xmin = 801.7920000000006 
+            xmax = 802.8160000000006 
+            text = "epenthesis9403seed345_01_ch784" 
+        intervals [785]:
+            xmin = 802.8160000000006 
+            xmax = 803.8400000000006 
+            text = "epenthesis9403seed345_01_ch785" 
+        intervals [786]:
+            xmin = 803.8400000000006 
+            xmax = 804.8640000000006 
+            text = "epenthesis9403seed345_01_ch786" 
+        intervals [787]:
+            xmin = 804.8640000000006 
+            xmax = 805.8880000000006 
+            text = "epenthesis9403seed345_01_ch787" 
+        intervals [788]:
+            xmin = 805.8880000000006 
+            xmax = 806.9120000000006 
+            text = "epenthesis9403seed345_01_ch788" 
+        intervals [789]:
+            xmin = 806.9120000000006 
+            xmax = 807.9360000000006 
+            text = "epenthesis9403seed345_01_ch789_p" 
+        intervals [790]:
+            xmin = 807.9360000000006 
+            xmax = 808.9600000000006 
+            text = "epenthesis9403seed345_01_ch790" 
+        intervals [791]:
+            xmin = 808.9600000000006 
+            xmax = 809.9840000000006 
+            text = "epenthesis9403seed345_01_ch791" 
+        intervals [792]:
+            xmin = 809.9840000000006 
+            xmax = 811.0080000000006 
+            text = "epenthesis9403seed345_01_ch792_p" 
+        intervals [793]:
+            xmin = 811.0080000000006 
+            xmax = 812.0320000000006 
+            text = "epenthesis9403seed345_01_ch793" 
+        intervals [794]:
+            xmin = 812.0320000000006 
+            xmax = 813.0560000000006 
+            text = "epenthesis9403seed345_01_ch794" 
+        intervals [795]:
+            xmin = 813.0560000000006 
+            xmax = 814.0800000000006 
+            text = "epenthesis9403seed345_01_ch795" 
+        intervals [796]:
+            xmin = 814.0800000000006 
+            xmax = 815.1040000000006 
+            text = "epenthesis9403seed345_01_ch796" 
+        intervals [797]:
+            xmin = 815.1040000000006 
+            xmax = 816.1280000000006 
+            text = "epenthesis9403seed345_01_ch797" 
+        intervals [798]:
+            xmin = 816.1280000000006 
+            xmax = 817.1520000000006 
+            text = "epenthesis9403seed345_01_ch798" 
+        intervals [799]:
+            xmin = 817.1520000000006 
+            xmax = 818.1760000000006 
+            text = "epenthesis9403seed345_01_ch799" 
+        intervals [800]:
+            xmin = 818.1760000000006 
+            xmax = 819.2000000000006 
+            text = "epenthesis9403seed345_01_ch800" 
+        intervals [801]:
+            xmin = 819.2000000000006 
+            xmax = 820.2240000000006 
+            text = "epenthesis9403seed345_01_ch801_t" 
+        intervals [802]:
+            xmin = 820.2240000000006 
+            xmax = 821.2480000000006 
+            text = "epenthesis9403seed345_01_ch802" 
+        intervals [803]:
+            xmin = 821.2480000000006 
+            xmax = 822.2720000000006 
+            text = "epenthesis9403seed345_01_ch803" 
+        intervals [804]:
+            xmin = 822.2720000000006 
+            xmax = 823.2960000000006 
+            text = "epenthesis9403seed345_01_ch804_k" 
+        intervals [805]:
+            xmin = 823.2960000000006 
+            xmax = 824.3200000000006 
+            text = "epenthesis9403seed345_01_ch805_k" 
+        intervals [806]:
+            xmin = 824.3200000000006 
+            xmax = 825.3440000000006 
+            text = "epenthesis9403seed345_01_ch806_p" 
+        intervals [807]:
+            xmin = 825.3440000000006 
+            xmax = 826.3680000000006 
+            text = "epenthesis9403seed345_01_ch807" 
+        intervals [808]:
+            xmin = 826.3680000000006 
+            xmax = 827.3920000000006 
+            text = "epenthesis9403seed345_01_ch808" 
+        intervals [809]:
+            xmin = 827.3920000000006 
+            xmax = 828.4160000000006 
+            text = "epenthesis9403seed345_01_ch809" 
+        intervals [810]:
+            xmin = 828.4160000000006 
+            xmax = 829.4400000000006 
+            text = "epenthesis9403seed345_01_ch810_t" 
+        intervals [811]:
+            xmin = 829.4400000000006 
+            xmax = 830.4640000000006 
+            text = "epenthesis9403seed345_01_ch811" 
+        intervals [812]:
+            xmin = 830.4640000000006 
+            xmax = 831.4880000000006 
+            text = "epenthesis9403seed345_01_ch812" 
+        intervals [813]:
+            xmin = 831.4880000000006 
+            xmax = 832.5120000000006 
+            text = "epenthesis9403seed345_01_ch813" 
+        intervals [814]:
+            xmin = 832.5120000000006 
+            xmax = 833.5360000000006 
+            text = "epenthesis9403seed345_01_ch814" 
+        intervals [815]:
+            xmin = 833.5360000000006 
+            xmax = 834.5600000000006 
+            text = "epenthesis9403seed345_01_ch815" 
+        intervals [816]:
+            xmin = 834.5600000000006 
+            xmax = 835.5840000000006 
+            text = "epenthesis9403seed345_01_ch816" 
+        intervals [817]:
+            xmin = 835.5840000000006 
+            xmax = 836.6080000000006 
+            text = "epenthesis9403seed345_01_ch817" 
+        intervals [818]:
+            xmin = 836.6080000000006 
+            xmax = 837.6320000000006 
+            text = "epenthesis9403seed345_01_ch818" 
+        intervals [819]:
+            xmin = 837.6320000000006 
+            xmax = 838.6560000000006 
+            text = "epenthesis9403seed345_01_ch819" 
+        intervals [820]:
+            xmin = 838.6560000000006 
+            xmax = 839.6800000000006 
+            text = "epenthesis9403seed345_01_ch820" 
+        intervals [821]:
+            xmin = 839.6800000000006 
+            xmax = 840.7040000000006 
+            text = "epenthesis9403seed345_01_ch821" 
+        intervals [822]:
+            xmin = 840.7040000000006 
+            xmax = 841.7280000000006 
+            text = "epenthesis9403seed345_01_ch822" 
+        intervals [823]:
+            xmin = 841.7280000000006 
+            xmax = 842.7520000000006 
+            text = "epenthesis9403seed345_01_ch823" 
+        intervals [824]:
+            xmin = 842.7520000000006 
+            xmax = 843.7760000000006 
+            text = "epenthesis9403seed345_01_ch824" 
+        intervals [825]:
+            xmin = 843.7760000000006 
+            xmax = 844.8000000000006 
+            text = "epenthesis9403seed345_01_ch825" 
+        intervals [826]:
+            xmin = 844.8000000000006 
+            xmax = 845.8240000000006 
+            text = "epenthesis9403seed345_01_ch826_p" 
+        intervals [827]:
+            xmin = 845.8240000000006 
+            xmax = 846.8480000000006 
+            text = "epenthesis9403seed345_01_ch827" 
+        intervals [828]:
+            xmin = 846.8480000000006 
+            xmax = 847.8720000000006 
+            text = "epenthesis9403seed345_01_ch828" 
+        intervals [829]:
+            xmin = 847.8720000000006 
+            xmax = 848.8960000000006 
+            text = "epenthesis9403seed345_01_ch829" 
+        intervals [830]:
+            xmin = 848.8960000000006 
+            xmax = 849.9200000000006 
+            text = "epenthesis9403seed345_01_ch830" 
+        intervals [831]:
+            xmin = 849.9200000000006 
+            xmax = 850.9440000000006 
+            text = "epenthesis9403seed345_01_ch831_t" 
+        intervals [832]:
+            xmin = 850.9440000000006 
+            xmax = 851.9680000000006 
+            text = "epenthesis9403seed345_01_ch832" 
+        intervals [833]:
+            xmin = 851.9680000000006 
+            xmax = 852.9920000000006 
+            text = "epenthesis9403seed345_01_ch833" 
+        intervals [834]:
+            xmin = 852.9920000000006 
+            xmax = 854.0160000000006 
+            text = "epenthesis9403seed345_01_ch834" 
+        intervals [835]:
+            xmin = 854.0160000000006 
+            xmax = 855.0400000000006 
+            text = "epenthesis9403seed345_01_ch835" 
+        intervals [836]:
+            xmin = 855.0400000000006 
+            xmax = 856.0640000000006 
+            text = "epenthesis9403seed345_01_ch836_p" 
+        intervals [837]:
+            xmin = 856.0640000000006 
+            xmax = 857.0880000000006 
+            text = "epenthesis9403seed345_01_ch837" 
+        intervals [838]:
+            xmin = 857.0880000000006 
+            xmax = 858.1120000000006 
+            text = "epenthesis9403seed345_01_ch838" 
+        intervals [839]:
+            xmin = 858.1120000000006 
+            xmax = 859.1360000000006 
+            text = "epenthesis9403seed345_01_ch839_p" 
+        intervals [840]:
+            xmin = 859.1360000000006 
+            xmax = 860.1600000000007 
+            text = "epenthesis9403seed345_01_ch840_p" 
+        intervals [841]:
+            xmin = 860.1600000000007 
+            xmax = 861.1840000000007 
+            text = "epenthesis9403seed345_01_ch841" 
+        intervals [842]:
+            xmin = 861.1840000000007 
+            xmax = 862.2080000000007 
+            text = "epenthesis9403seed345_01_ch842" 
+        intervals [843]:
+            xmin = 862.2080000000007 
+            xmax = 863.2320000000007 
+            text = "epenthesis9403seed345_01_ch843" 
+        intervals [844]:
+            xmin = 863.2320000000007 
+            xmax = 864.2560000000007 
+            text = "epenthesis9403seed345_01_ch844" 
+        intervals [845]:
+            xmin = 864.2560000000007 
+            xmax = 865.2800000000007 
+            text = "epenthesis9403seed345_01_ch845" 
+        intervals [846]:
+            xmin = 865.2800000000007 
+            xmax = 866.3040000000007 
+            text = "epenthesis9403seed345_01_ch846" 
+        intervals [847]:
+            xmin = 866.3040000000007 
+            xmax = 867.3280000000007 
+            text = "epenthesis9403seed345_01_ch847" 
+        intervals [848]:
+            xmin = 867.3280000000007 
+            xmax = 868.3520000000007 
+            text = "epenthesis9403seed345_01_ch848_k" 
+        intervals [849]:
+            xmin = 868.3520000000007 
+            xmax = 869.3760000000007 
+            text = "epenthesis9403seed345_01_ch849" 
+        intervals [850]:
+            xmin = 869.3760000000007 
+            xmax = 870.4000000000007 
+            text = "epenthesis9403seed345_01_ch850" 
+        intervals [851]:
+            xmin = 870.4000000000007 
+            xmax = 871.4240000000007 
+            text = "epenthesis9403seed345_01_ch851" 
+        intervals [852]:
+            xmin = 871.4240000000007 
+            xmax = 872.4480000000007 
+            text = "epenthesis9403seed345_01_ch852_p" 
+        intervals [853]:
+            xmin = 872.4480000000007 
+            xmax = 873.4720000000007 
+            text = "epenthesis9403seed345_01_ch853_p" 
+        intervals [854]:
+            xmin = 873.4720000000007 
+            xmax = 874.4960000000007 
+            text = "epenthesis9403seed345_01_ch854" 
+        intervals [855]:
+            xmin = 874.4960000000007 
+            xmax = 875.5200000000007 
+            text = "epenthesis9403seed345_01_ch855" 
+        intervals [856]:
+            xmin = 875.5200000000007 
+            xmax = 876.5440000000007 
+            text = "epenthesis9403seed345_01_ch856_t" 
+        intervals [857]:
+            xmin = 876.5440000000007 
+            xmax = 877.5680000000007 
+            text = "epenthesis9403seed345_01_ch857" 
+        intervals [858]:
+            xmin = 877.5680000000007 
+            xmax = 878.5920000000007 
+            text = "epenthesis9403seed345_01_ch858" 
+        intervals [859]:
+            xmin = 878.5920000000007 
+            xmax = 879.6160000000007 
+            text = "epenthesis9403seed345_01_ch859_p" 
+        intervals [860]:
+            xmin = 879.6160000000007 
+            xmax = 880.6400000000007 
+            text = "epenthesis9403seed345_01_ch860" 
+        intervals [861]:
+            xmin = 880.6400000000007 
+            xmax = 881.6640000000007 
+            text = "epenthesis9403seed345_01_ch861" 
+        intervals [862]:
+            xmin = 881.6640000000007 
+            xmax = 882.6880000000007 
+            text = "epenthesis9403seed345_01_ch862" 
+        intervals [863]:
+            xmin = 882.6880000000007 
+            xmax = 883.7120000000007 
+            text = "epenthesis9403seed345_01_ch863" 
+        intervals [864]:
+            xmin = 883.7120000000007 
+            xmax = 884.7360000000007 
+            text = "epenthesis9403seed345_01_ch864" 
+        intervals [865]:
+            xmin = 884.7360000000007 
+            xmax = 885.7600000000007 
+            text = "epenthesis9403seed345_01_ch865" 
+        intervals [866]:
+            xmin = 885.7600000000007 
+            xmax = 886.7840000000007 
+            text = "epenthesis9403seed345_01_ch866_t" 
+        intervals [867]:
+            xmin = 886.7840000000007 
+            xmax = 887.8080000000007 
+            text = "epenthesis9403seed345_01_ch867" 
+        intervals [868]:
+            xmin = 887.8080000000007 
+            xmax = 888.8320000000007 
+            text = "epenthesis9403seed345_01_ch868" 
+        intervals [869]:
+            xmin = 888.8320000000007 
+            xmax = 889.8560000000007 
+            text = "epenthesis9403seed345_01_ch869" 
+        intervals [870]:
+            xmin = 889.8560000000007 
+            xmax = 890.8800000000007 
+            text = "epenthesis9403seed345_01_ch870" 
+        intervals [871]:
+            xmin = 890.8800000000007 
+            xmax = 891.9040000000007 
+            text = "epenthesis9403seed345_01_ch871" 
+        intervals [872]:
+            xmin = 891.9040000000007 
+            xmax = 892.9280000000007 
+            text = "epenthesis9403seed345_01_ch872_p" 
+        intervals [873]:
+            xmin = 892.9280000000007 
+            xmax = 893.9520000000007 
+            text = "epenthesis9403seed345_01_ch873" 
+        intervals [874]:
+            xmin = 893.9520000000007 
+            xmax = 894.9760000000007 
+            text = "epenthesis9403seed345_01_ch874" 
+        intervals [875]:
+            xmin = 894.9760000000007 
+            xmax = 896.0000000000007 
+            text = "epenthesis9403seed345_01_ch875" 
+        intervals [876]:
+            xmin = 896.0000000000007 
+            xmax = 897.0240000000007 
+            text = "epenthesis9403seed345_01_ch876_t" 
+        intervals [877]:
+            xmin = 897.0240000000007 
+            xmax = 898.0480000000007 
+            text = "epenthesis9403seed345_01_ch877" 
+        intervals [878]:
+            xmin = 898.0480000000007 
+            xmax = 899.0720000000007 
+            text = "epenthesis9403seed345_01_ch878" 
+        intervals [879]:
+            xmin = 899.0720000000007 
+            xmax = 900.0960000000007 
+            text = "epenthesis9403seed345_01_ch879" 
+        intervals [880]:
+            xmin = 900.0960000000007 
+            xmax = 901.1200000000007 
+            text = "epenthesis9403seed345_01_ch880" 
+        intervals [881]:
+            xmin = 901.1200000000007 
+            xmax = 902.1440000000007 
+            text = "epenthesis9403seed345_01_ch881" 
+        intervals [882]:
+            xmin = 902.1440000000007 
+            xmax = 903.1680000000007 
+            text = "epenthesis9403seed345_01_ch882" 
+        intervals [883]:
+            xmin = 903.1680000000007 
+            xmax = 904.1920000000007 
+            text = "epenthesis9403seed345_01_ch883" 
+        intervals [884]:
+            xmin = 904.1920000000007 
+            xmax = 905.2160000000007 
+            text = "epenthesis9403seed345_01_ch884_p" 
+        intervals [885]:
+            xmin = 905.2160000000007 
+            xmax = 906.2400000000007 
+            text = "epenthesis9403seed345_01_ch885_Xisusa" 
+        intervals [886]:
+            xmin = 906.2400000000007 
+            xmax = 907.2640000000007 
+            text = "epenthesis9403seed345_01_ch886" 
+        intervals [887]:
+            xmin = 907.2640000000007 
+            xmax = 908.2880000000007 
+            text = "epenthesis9403seed345_01_ch887" 
+        intervals [888]:
+            xmin = 908.2880000000007 
+            xmax = 909.3120000000007 
+            text = "epenthesis9403seed345_01_ch888" 
+        intervals [889]:
+            xmin = 909.3120000000007 
+            xmax = 910.3360000000007 
+            text = "epenthesis9403seed345_01_ch889" 
+        intervals [890]:
+            xmin = 910.3360000000007 
+            xmax = 911.3600000000007 
+            text = "epenthesis9403seed345_01_ch890" 
+        intervals [891]:
+            xmin = 911.3600000000007 
+            xmax = 912.3840000000007 
+            text = "epenthesis9403seed345_01_ch891" 
+        intervals [892]:
+            xmin = 912.3840000000007 
+            xmax = 913.4080000000007 
+            text = "epenthesis9403seed345_01_ch892_p" 
+        intervals [893]:
+            xmin = 913.4080000000007 
+            xmax = 914.4320000000007 
+            text = "epenthesis9403seed345_01_ch893" 
+        intervals [894]:
+            xmin = 914.4320000000007 
+            xmax = 915.4560000000007 
+            text = "epenthesis9403seed345_01_ch894" 
+        intervals [895]:
+            xmin = 915.4560000000007 
+            xmax = 916.4800000000007 
+            text = "epenthesis9403seed345_01_ch895" 
+        intervals [896]:
+            xmin = 916.4800000000007 
+            xmax = 917.5040000000007 
+            text = "epenthesis9403seed345_01_ch896" 
+        intervals [897]:
+            xmin = 917.5040000000007 
+            xmax = 918.5280000000007 
+            text = "epenthesis9403seed345_01_ch897" 
+        intervals [898]:
+            xmin = 918.5280000000007 
+            xmax = 919.5520000000007 
+            text = "epenthesis9403seed345_01_ch898" 
+        intervals [899]:
+            xmin = 919.5520000000007 
+            xmax = 920.5760000000007 
+            text = "epenthesis9403seed345_01_ch899_t" 
+        intervals [900]:
+            xmin = 920.5760000000007 
+            xmax = 921.6000000000007 
+            text = "epenthesis9403seed345_01_ch900" 
+        intervals [901]:
+            xmin = 921.6000000000007 
+            xmax = 922.6240000000007 
+            text = "epenthesis9403seed345_01_ch901" 
+        intervals [902]:
+            xmin = 922.6240000000007 
+            xmax = 923.6480000000007 
+            text = "epenthesis9403seed345_01_ch902" 
+        intervals [903]:
+            xmin = 923.6480000000007 
+            xmax = 924.6720000000007 
+            text = "epenthesis9403seed345_01_ch903" 
+        intervals [904]:
+            xmin = 924.6720000000007 
+            xmax = 925.6960000000007 
+            text = "epenthesis9403seed345_01_ch904_t" 
+        intervals [905]:
+            xmin = 925.6960000000007 
+            xmax = 926.7200000000007 
+            text = "epenthesis9403seed345_01_ch905" 
+        intervals [906]:
+            xmin = 926.7200000000007 
+            xmax = 927.7440000000007 
+            text = "epenthesis9403seed345_01_ch906" 
+        intervals [907]:
+            xmin = 927.7440000000007 
+            xmax = 928.7680000000007 
+            text = "epenthesis9403seed345_01_ch907_t" 
+        intervals [908]:
+            xmin = 928.7680000000007 
+            xmax = 929.7920000000007 
+            text = "epenthesis9403seed345_01_ch908" 
+        intervals [909]:
+            xmin = 929.7920000000007 
+            xmax = 930.8160000000007 
+            text = "epenthesis9403seed345_01_ch909" 
+        intervals [910]:
+            xmin = 930.8160000000007 
+            xmax = 931.8400000000007 
+            text = "epenthesis9403seed345_01_ch910" 
+        intervals [911]:
+            xmin = 931.8400000000007 
+            xmax = 932.8640000000007 
+            text = "epenthesis9403seed345_01_ch911" 
+        intervals [912]:
+            xmin = 932.8640000000007 
+            xmax = 933.8880000000007 
+            text = "epenthesis9403seed345_01_ch912_p" 
+        intervals [913]:
+            xmin = 933.8880000000007 
+            xmax = 934.9120000000007 
+            text = "epenthesis9403seed345_01_ch913" 
+        intervals [914]:
+            xmin = 934.9120000000007 
+            xmax = 935.9360000000007 
+            text = "epenthesis9403seed345_01_ch914" 
+        intervals [915]:
+            xmin = 935.9360000000007 
+            xmax = 936.9600000000007 
+            text = "epenthesis9403seed345_01_ch915" 
+        intervals [916]:
+            xmin = 936.9600000000007 
+            xmax = 937.9840000000007 
+            text = "epenthesis9403seed345_01_ch916_p" 
+        intervals [917]:
+            xmin = 937.9840000000007 
+            xmax = 939.0080000000007 
+            text = "epenthesis9403seed345_01_ch917" 
+        intervals [918]:
+            xmin = 939.0080000000007 
+            xmax = 940.0320000000007 
+            text = "epenthesis9403seed345_01_ch918_k" 
+        intervals [919]:
+            xmin = 940.0320000000007 
+            xmax = 941.0560000000007 
+            text = "epenthesis9403seed345_01_ch919_t" 
+        intervals [920]:
+            xmin = 941.0560000000007 
+            xmax = 942.0800000000007 
+            text = "epenthesis9403seed345_01_ch920_p" 
+        intervals [921]:
+            xmin = 942.0800000000007 
+            xmax = 943.1040000000007 
+            text = "epenthesis9403seed345_01_ch921" 
+        intervals [922]:
+            xmin = 943.1040000000007 
+            xmax = 944.1280000000007 
+            text = "epenthesis9403seed345_01_ch922" 
+        intervals [923]:
+            xmin = 944.1280000000007 
+            xmax = 945.1520000000007 
+            text = "epenthesis9403seed345_01_ch923" 
+        intervals [924]:
+            xmin = 945.1520000000007 
+            xmax = 946.1760000000007 
+            text = "epenthesis9403seed345_01_ch924" 
+        intervals [925]:
+            xmin = 946.1760000000007 
+            xmax = 947.2000000000007 
+            text = "epenthesis9403seed345_01_ch925" 
+        intervals [926]:
+            xmin = 947.2000000000007 
+            xmax = 948.2240000000007 
+            text = "epenthesis9403seed345_01_ch926" 
+        intervals [927]:
+            xmin = 948.2240000000007 
+            xmax = 949.2480000000007 
+            text = "epenthesis9403seed345_01_ch927" 
+        intervals [928]:
+            xmin = 949.2480000000007 
+            xmax = 950.2720000000007 
+            text = "epenthesis9403seed345_01_ch928" 
+        intervals [929]:
+            xmin = 950.2720000000007 
+            xmax = 951.2960000000007 
+            text = "epenthesis9403seed345_01_ch929" 
+        intervals [930]:
+            xmin = 951.2960000000007 
+            xmax = 952.3200000000007 
+            text = "epenthesis9403seed345_01_ch930" 
+        intervals [931]:
+            xmin = 952.3200000000007 
+            xmax = 953.3440000000007 
+            text = "epenthesis9403seed345_01_ch931" 
+        intervals [932]:
+            xmin = 953.3440000000007 
+            xmax = 954.3680000000007 
+            text = "epenthesis9403seed345_01_ch932" 
+        intervals [933]:
+            xmin = 954.3680000000007 
+            xmax = 955.3920000000007 
+            text = "epenthesis9403seed345_01_ch933_k" 
+        intervals [934]:
+            xmin = 955.3920000000007 
+            xmax = 956.4160000000007 
+            text = "epenthesis9403seed345_01_ch934" 
+        intervals [935]:
+            xmin = 956.4160000000007 
+            xmax = 957.4400000000007 
+            text = "epenthesis9403seed345_01_ch935" 
+        intervals [936]:
+            xmin = 957.4400000000007 
+            xmax = 958.4640000000007 
+            text = "epenthesis9403seed345_01_ch936_t" 
+        intervals [937]:
+            xmin = 958.4640000000007 
+            xmax = 959.4880000000007 
+            text = "epenthesis9403seed345_01_ch937" 
+        intervals [938]:
+            xmin = 959.4880000000007 
+            xmax = 960.5120000000007 
+            text = "epenthesis9403seed345_01_ch938" 
+        intervals [939]:
+            xmin = 960.5120000000007 
+            xmax = 961.5360000000007 
+            text = "epenthesis9403seed345_01_ch939" 
+        intervals [940]:
+            xmin = 961.5360000000007 
+            xmax = 962.5600000000007 
+            text = "epenthesis9403seed345_01_ch940" 
+        intervals [941]:
+            xmin = 962.5600000000007 
+            xmax = 963.5840000000007 
+            text = "epenthesis9403seed345_01_ch941" 
+        intervals [942]:
+            xmin = 963.5840000000007 
+            xmax = 964.6080000000007 
+            text = "epenthesis9403seed345_01_ch942" 
+        intervals [943]:
+            xmin = 964.6080000000007 
+            xmax = 965.6320000000007 
+            text = "epenthesis9403seed345_01_ch943" 
+        intervals [944]:
+            xmin = 965.6320000000007 
+            xmax = 966.6560000000007 
+            text = "epenthesis9403seed345_01_ch944" 
+        intervals [945]:
+            xmin = 966.6560000000007 
+            xmax = 967.6800000000007 
+            text = "epenthesis9403seed345_01_ch945" 
+        intervals [946]:
+            xmin = 967.6800000000007 
+            xmax = 968.7040000000007 
+            text = "epenthesis9403seed345_01_ch946_p" 
+        intervals [947]:
+            xmin = 968.7040000000007 
+            xmax = 969.7280000000007 
+            text = "epenthesis9403seed345_01_ch947" 
+        intervals [948]:
+            xmin = 969.7280000000007 
+            xmax = 970.7520000000007 
+            text = "epenthesis9403seed345_01_ch948" 
+        intervals [949]:
+            xmin = 970.7520000000007 
+            xmax = 971.7760000000007 
+            text = "epenthesis9403seed345_01_ch949" 
+        intervals [950]:
+            xmin = 971.7760000000007 
+            xmax = 972.8000000000001 
+            text = "epenthesis9403seed345_01_ch950" 
