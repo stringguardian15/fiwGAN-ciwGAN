@@ -1,7 +1,7 @@
-executable = /projects/580_waves_august2020/scripts/GAN_data/epenthesisGAN/epenthesisGenerate.sh
+executable = epenthesisGenerate.sh
 getenv = True
-error      = /projects/580_waves_august2020/scripts/GAN_data/epenthesisGAN/generateError.txt
-log        = /projects/580_waves_august2020/scripts/GAN_data/epenthesisGAN/generateLog.txt
+error      = generateError.txt
+log        = generateLog.txt
 notification = complete
 request_memory = 4*1024
 request_GPUs = 1
